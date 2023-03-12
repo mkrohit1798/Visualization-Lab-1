@@ -1,0 +1,66 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <script src = "https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/demo_styling.css">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      body {
+        background-image: url("https://img.freepik.com/premium-photo/abstract-digital-background-network-connection-structure-big-data-futuristic-abstract-wave-3d-rendering_697329-183.jpg?w=2000");
+      }
+    </style>
+  </head>  
+
+  <body>
+    
+    <ul id="nav">
+      <li><a href="demo_page.html">Home</a></li>
+      <li><a href="bar_histogram.html">Bar and Histogram Plots</a></li>
+      <li><a href="scatter.html">Scatter Plot</a></li>
+      
+    </ul>
+
+    <div id="scatterdiv">
+      <center><b>Select an attribute:</b>
+        <select id="scatterselector">
+          <option disabled selected value>--Select an option--</option>
+          
+          <!-- <option value ="Min_OS">Minimum OS Required</option> 
+          <option value ="Recom_OS">Recommended OS</option> 
+          <option value ="Min_Direct_X">Required DirectX version</option> 
+          <option value ="Min_HDD_Space">Required Hard Disk Space</option>  -->
+          <!-- <option value ="Recom_HDD_Space">Recommended Hard Disk Space</option>  -->
+           <!-- <option value ="Min_GPU_Direct_X">Required DirectX for GPU</option>  -->
+
+          <option value ="Recom_CPU_Max_Temp">Recommended CPU operating max temperature</option>
+          <option value ="Min_CPU_Lithography">Required minimum CPU Lithography Value</option>
+          <option value ="Min_CPU_Physical_Cores">Required minimum CPU Cores</option>
+          <option value ="Recom_CPU_CPU_Speed">Recommended CPU Speed</option>
+          <option value ="Recom_CPU_Lithography">Recommended CPU Lithography</option> 
+          <option value ="Min_GPU_Memory">Required minimum GPU Memory</option>
+          <option value ="Min_GPU_Memory_Speed">Required minimum GPU Memory Speed</option>
+          
+          <option value ="Min_GPU_Pixel_Rate">Required GPU Pixel Rate</option>
+          <option value="Min_GPU_Texture_Rate">Required GPU texture render rate</option>
+          <option value ="Min_GPU_Memory_Bandwidth">Required GPU Bandwidth</option>
+          
+        <div id = "radiodivscatter">
+            <form id="radio_scatter">
+                <input style ="margin-left: 1%;" type="radio" id="scatter_x" name="axis_val" value="X">
+                <label for="xscat">X Axis</label>
+                <input type="radio" id="scatter_y" name="axis_val" value="Y">
+                <label for="yscat">Y Axis</label>
+            </form>
+        </div>
+        </select>
+    </center>
+    </div>
+    <!-- <svg width="1500" height="600"></svg> -->
+    <script src="game_app.js"></script>
+    <script src ="scatterplot.js"></script>
+    
+  </body>
+</html>

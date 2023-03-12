@@ -1,0 +1,62 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <script src = "https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/demo_styling.css">    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      body {
+        background-image: url("https://img.freepik.com/premium-photo/abstract-digital-background-network-connection-structure-big-data-futuristic-abstract-wave-3d-rendering_697329-183.jpg?w=2000");
+      }
+    </style>
+  </head>  
+
+  <body>
+    
+    
+    <ul id="nav">
+      <li><a href="demo_page.html">Home</a></li>
+      <li><a href="bar_histogram.html">Bar and Histogram Plots</a></li>
+      <li><a href="scatter.html">Scatter Plot</a></li>
+    </ul>
+
+    <div class="barhistogramdiv" style = "margin-left: -18%">
+      <center><b>Select an attribute:</b>
+        <select id="barhistselector">
+          <option disabled selected value>--Select an option--</option>
+          
+          <option value ="Min_OS">Minimum required OS (categorical)</option> <!--catrgorical -->
+          <option value ="Recom_OS">Recommended OS(categorical)</option> <!--catrgorical -->
+          <option value ="Min_Direct_X">Minimum required DirectX version(categorical)</option> <!--catrgorical -->
+          <option value ="Min_HDD_Space">Minimum required Hard Disk Space(categorical)</option> <!--catrgorical -->
+          <option value ="Recom_HDD_Space">Recommended Hard Disk Space(categorical)</option> <!--catrgorical -->
+
+          <option value ="Recom_CPU_Max_Temp">Recommended CPU operating max temperature</option>
+          <option value ="Min_CPU_Lithography">Minimum Required CPU Lithography Value</option>
+          <option value ="Min_CPU_Physical_Cores">Minimum required CPU Cores required</option>
+          <option value ="Recom_CPU_CPU_Speed">Recommended CPU Speed</option>
+          <option value ="Recom_CPU_Lithography">Recommended CPU Lithography</option> 
+          <option value ="Min_GPU_Memory">Minimum required GPU Memory</option>
+          <option value ="Min_GPU_Memory_Speed">Minimum required GPU Speed</option>
+          <option value ="Min_GPU_Pixel_Rate">Minimum required GPU Pixel Rate</option>
+          <option value="Min_GPU_Texture_Rate">Minimum required GPU texture render rate</option>
+          <option value ="Min_GPU_Memory_Bandwidth">Minimum required GPU Bandwidth</option>
+          
+          
+        </select>
+    </center>
+    </div>
+    <label class="switch">
+      <input id="toggle_bar" type="checkbox" class="toogle"> Toggle switch(Vertical/Horizontal)
+      <span class="slider round"></span>
+  </label><br>
+  <label># bins(Histogram)</label>
+  <input type="number" min="0" max="100" step="20" value="20" id="nbins">
+    <script src="game_app.js"></script>
+    <script src ="bargraph.js"></script>
+    <script src="hist.js"></script>
+  </body>
+</html>

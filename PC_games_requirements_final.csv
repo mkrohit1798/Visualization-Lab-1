@@ -1,0 +1,1001 @@
+Name,Min_OS,Recom_OS,Min_Direct_X,Min_HDD_Space,Recom_CPU_Max_Temp,Recom_HDD_Space,Min_CPU_Lithography,Min_CPU_Physical_Cores,Recom_CPU_CPU_Speed,Recom_CPU_Lithography,Recom_CPU_Max_Temp,Min_GPU_Memory,Min_GPU_Memory_Speed,Min_GPU_Direct_X,Min_GPU_Pixel_Rate,Min_GPU_Texture_Rate,Min_GPU_Memory_Bandwidth
+Mass Effect 3: Rebellion,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,61.0,1 GB,65.0,2.0,2.75,65.0,61.0,512.0,395.0,10.55,1.0,2.5,6.3
+Starena,Windows XP 32-bit,Windows 10 64-bit,DirectX 11,2 GB,30.5,2 GB,55.0,2.0,2.8,55.0,30.5,768.0,899.0,11.05,3.0,6.0,21.6
+Epigenesis,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,35.0,2 GB,65.0,2.0,2.215,65.0,35.0,512.0,625.0,11.05,8.5,17.0,40.0
+Star Wars Jedi: Survivor,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,55 GB,0.0,55 GB,27.0,4.0,3.5,14.0,0.0,1024.0,1187.5,11.1,15.0,30.0,76.0
+Train Giant A-Train 9,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1.2 GB,35.0,1.2 GB,90.0,1.5,2.215,65.0,35.0,896.0,600.0,10.05,6.5,17.5,23.2
+Dandara: Trials of Fear Edition,Windows XP 64-bit,Windows 10 64-bit,DirectX 9,1 GB,32.5,1 GB,122.5,1.0,3.2,33.5,32.5,512.0,816.5,10.55,6.5,12.0,37.35
+Stone Rage,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,8 GB,50.0,8 GB,32.0,5.0,3.4,14.0,50.0,1024.0,1375.0,11.15,16.5,45.5,88.0
+Mr. Prepper,Windows XP 64-bit,Windows 10 64-bit,DirectX 9,5 GB,33.5,5 GB,45.0,2.0,3.35,17.0,33.5,512.0,849.0,11.05,4.0,5.5,20.0
+Clutch,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,0.0,2 GB,130.0,1.0,2.5835,110.0,0.0,64.0,100.0,9.0,0.0,0.0,1.6
+Crusader Kings II: Sword of Islam,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,30.0,1 GB,110.0,1.0,2.3665000000000003,65.0,30.0,384.0,950.0,9.5,5.0,8.0,60.8
+NekoPara Vol. 1,Windows Vista 32-bit,Windows Vista 32-bit,DirectX 9,0,66.5,0,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Sonic Lost World,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,8 GB,67.5,8 GB,55.0,2.0,2.83,45.0,67.5,512.0,814.0,10.0,11.0,27.0,78.6
+Zero Escape: Zero Time Dilemma,Windows 7 32-bit,Windows 7 64-bit,DirectX 11,4 GB,67.0,6 GB,38.5,2.5,2.85,48.5,67.0,512.0,1158.5,11.15,12.0,27.0,57.05
+Titanic: Honor and Glory,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,4 GB,36.5,4 GB,38.5,3.0,3.15,27.0,36.5,1536.0,1076.0,11.0,6.5,15.0,34.45
+BIT.TRIP Presents Runner2: Future Legend of Rhythm Alien,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,0.0,0MB,180.0,1.0,2.4,90.0,0.0,64.0,266.5,9.0,0.0,0.0,4.25
+Night Call,Windows 7 32-bit,Windows 7 64-bit,DirectX 11,2 GB,85.0,2 GB,23.0,3.0,3.35,23.0,85.0,448.0,567.0,11.0,10.5,38.5,63.5
+Defenders of Ardania: Battlemagic,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,0.0,0MB,110.0,1.0,2.9,77.5,0.0,384.0,450.0,10.05,2.0,5.0,11.2
+Thief Simulator,Windows 7 64-bit,Windows 10 64-bit,DirectX 10,5 GB,52.5,5 GB,27.0,6.0,3.45,18.0,52.5,1024.0,1375.0,11.15,16.5,45.5,88.0
+Dawn of War 3,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,50 GB,33.5,50 GB,38.5,3.0,3.45,27.0,33.5,1536.0,1126.0,11.0,25.5,57.0,144.15
+Cosmic Highway,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+007 Legends,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,7 GB,36.0,7 GB,77.5,2.0,3.2,45.0,36.0,896.0,600.0,10.05,6.5,17.5,23.2
+Dispatcher,Windows 7 64-bit,Windows 8 64-bit,DirectX 11,6 GB,67.5,6 GB,65.0,2.0,3.35,38.5,67.5,1664.0,1018.5,11.05,26.0,44.5,143.75
+Arma III: Karts,Windows Vista 32-bit,Windows 7 64-bit,DirectX 10,15 GB,67.5,25 GB,77.5,2.0,2.9,38.5,67.5,384.0,865.0,10.05,10.5,22.5,42.1
+Worms: Ultimate Mayhem,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,66.5,2 GB,90.0,1.0,2.05,65.0,66.5,512.0,400.0,10.1,5.0,19.0,12.8
+London 2012: The Official Olympics Video Game,Windows Vista 32-bit,Windows 7 64-bit,DirectX 10,10 GB,35.5,10 GB,45.0,2.0,2.9,55.0,35.5,256.0,600.0,10.0,3.0,7.0,19.2
+Fracture the Flag,Windows 7 32-bit,Windows 7 64-bit,DirectX 10,0MB,69.5,15 GB,33.5,2.5,2.9,38.5,69.5,640.0,840.0,9.5,5.0,7.0,53.75
+Lair of the Evildoer,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Into the Breach,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0,66.5,0,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Viscera Cleanup Detail: Shadow Warrior,Windows 7 32-bit,Windows 7 64-bit,DirectX 9,1 GB,73.0,1 GB,65.0,2.0,3.03,38.5,73.0,512.0,1013.0,10.05,11.0,23.0,64.85
+The Flame in the Flood,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,5 GB,31.0,5 GB,77.5,2.0,3.1500000000000004,55.0,31.0,768.0,850.0,11.0,3.0,5.5,13.6
+Fuser,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,10 GB,84.0,10 GB,18.0,4.0,3.7,14.5,84.0,1024.0,1375.0,11.15,16.5,45.5,88.0
+Lumberjack Simulator,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,2 GB,36.5,2 GB,45.0,4.0,3.5,18.0,36.5,1024.0,1751.5,12.05,28.5,71.0,56.1
+ShockRods,Windows 7 64-bit,Windows 10 64-bit,DirectX 12,5 GB,0.0,5 GB,14.0,4.0,3.8,13.0,0.0,1024.0,1751.0,12.05,33.0,62.5,56.05
+Ashes Cricket 2013,Windows Vista 32-bit,Windows 7 64-bit,DirectX 9,11 GB,70.0,11 GB,38.5,2.5,3.05,38.5,70.0,768.0,900.0,10.55,7.5,20.5,72.0
+The Lego Movie 2 Videogame,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,8 GB,72.5,6 GB,130.0,1.0,2.55,65.0,72.5,192.0,300.0,9.0,1.0,1.0,7.6
+Demons Souls Remake,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,25 GB,36.5,25 GB,32.0,4.0,3.4,23.0,36.5,2560.0,1376.0,11.1,29.5,94.5,216.15
+Windlands,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,3 GB,36.5,3 GB,55.0,2.0,3.65,27.0,36.5,640.0,946.5,10.05,12.0,21.5,75.0
+Akaneiro: Demon Hunters,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,4 GB,0.0,4 GB,180.0,1.0,2.03,155.0,0.0,320.0,550.0,9.5,1.0,2.5,6.8
+Furious Seas,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,8 GB,36.5,8 GB,18.0,4.0,3.75,27.0,36.5,4096.0,1751.0,12.05,43.0,124.5,168.05
+Pole Position 2012,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,37.0,1 GB,65.0,2.0,2.615,45.0,37.0,256.0,500.0,9.5,1.0,2.5,16.0
+Bastion,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,0.0,1.6 GB,55.0,2.0,2.63,90.0,0.0,256.0,416.5,9.55,1.0,1.0,6.65
+Fallout 4,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,30 GB,36.5,30 GB,38.5,4.0,4.15,11.0,36.5,1536.0,1112.5,11.05,27.0,54.5,126.0
+Unavowed,Windows XP 32-bit,Windows XP 32-bit,DirectX 5,3 GB,66.5,3 GB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Time To Stop Time,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,20 GB,34.5,20 GB,32.0,5.0,3.55,32.0,34.5,1024.0,1051.0,11.0,13.5,29.5,67.25
+Company of Heroes,Windows XP 32-bit,0,DirectX 9,6.5 GB,32.5,0,180.0,1.0,2.4,90.0,32.5,320.0,550.0,9.5,1.0,2.5,6.8
+Steep: 90's,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,25 GB,52.5,25 GB,32.0,5.0,3.75,27.0,52.5,2048.0,1376.0,11.55,20.5,69.5,112.1
+Atelier Escha & Logy: Alchemists of the Dusk Sky DX,Windows 8 64-bit,Windows 10 64-bit,DirectX 11,17 GB,36.5,17 GB,38.5,3.0,3.7,32.0,36.5,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+The Day Before,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,75 GB,0.0,75 GB,27.0,5.0,3.35,14.0,0.0,2048.0,1576.5,12.05,34.5,68.5,145.7
+Armored Warfare,Windows Vista 32-bit,Windows 7 64-bit,DirectX 9,10 GB,71.5,10 GB,55.0,2.0,2.9000000000000004,33.5,71.5,512.0,600.0,10.05,4.5,14.0,19.200000000000003
+Out of the Park Baseball 19,Windows Vista 32-bit,Windows 7 64-bit,DirectX 9,7 GB,72.0,20 GB,130.0,1.0,2.615,45.0,72.0,192.0,700.0,9.5,3.5,6.0,33.599999999999994
+Killing Room,Windows 7 64-bit,Windows 7 64-bit,DirectX 9,5 GB,69.5,5 GB,33.5,2.5,2.9,38.5,69.5,1536.0,1075.0,11.15,6.0,14.5,34.4
+Slay the Spire,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0,66.5,0,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Barn Finders,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,21 GB,36.5,21 GB,27.0,6.0,3.3,18.0,36.5,2048.0,1451.0,11.15,29.0,97.0,161.7
+Chaos on Deponia,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,5 GB,36.0,5 GB,130.0,1.0,2.7,77.5,36.0,512.0,595.0,10.55,3.5,6.5,9.5
+Rain Island: Orange,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,1 GB,0.0,1 GB,32.0,6.0,3.6,14.0,0.0,4096.0,1126.5,12.0,71.0,190.0,368.2
+The Quiet Man,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,40 GB,65.0,40 GB,38.5,4.0,2.9000000000000004,32.0,65.0,2048.0,1375.0,11.6,24.0,52.5,132.8
+Grimm Ep 14 - Iron John,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+South Park: The Fractured But Whole - Danger Deck,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,30 GB,36.5,30 GB,32.0,4.0,3.75,27.0,36.5,2048.0,1225.0,11.1,22.5,44.5,116.8
+Orion: Dino Beatdown,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,8 GB,35.0,8 GB,65.0,2.0,2.215,65.0,35.0,128.0,250.0,9.55,0.0,0.0,8.0
+Dangerous,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,155.0,1.0,1.85,65.0,66.5,192.0,727.5,9.0,0.0,0.0,38.95
+StarCrossed (2020),Windows 7 32-bit,Windows 10 64-bit,DirectX 10,1 GB,36.5,1 GB,27.0,6.0,3.35,27.0,36.5,1024.0,1112.5,11.0,18.0,31.5,87.6
+Heat,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,70 GB,0.0,70 GB,18.0,4.0,3.8,13.0,0.0,4096.0,1751.5,12.0,43.0,102.5,168.2
+Hearts of Iron IV: La Resistance,Windows 7 64-bit,Windows Vista 32-bit,DirectX 9,2 GB,67.5,2 GB,45.0,4.0,2.93,45.0,67.5,1152.0,918.5,11.0,23.5,43.0,130.95
+Clustertruck,Windows 7 32-bit,Windows 7 64-bit,DirectX 9,0MB,32.5,0MB,65.0,2.0,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+Skellboy Refractured,Windows 7 64-bit,Windows 7 64-bit,DirectX 10,1 GB,0.0,1 GB,45.0,2.0,3.515,29.5,0.0,320.0,550.0,9.5,1.0,2.5,6.8
+Tides of Existence,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,15 GB,52.5,15 GB,38.5,4.0,3.7,27.0,52.5,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+Hotel Endless,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Where Angels Cry,Windows XP 32-bit,Windows XP 32-bit,DirectX 10,1 GB,0.0,1 GB,155.0,1.0,2.9,77.5,0.0,128.0,600.0,10.0,2.0,3.0,3.2
+To Be or Not To Be,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Spacies,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+They Bleed Pixels,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,71.0,0MB,77.5,2.0,2.63,55.0,71.0,384.0,700.0,9.5,2.0,4.5,33.599999999999994
+Overboard!,Windows XP 64-bit,Windows XP 64-bit,DirectX 9,1 GB,32.5,1 GB,65.0,2.0,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+NoseBound,Windows 7 64-bit,Windows 10 64-bit,DirectX 9,4 GB,36.5,4 GB,55.0,2.0,3.55,18.0,36.5,768.0,950.0,10.5,7.5,18.5,60.8
+blackguards 2,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,12 GB,70.5,12 GB,65.0,2.0,3.0,48.5,70.5,256.0,700.0,10.0,3.5,7.5,22.4
+Warhammer: The End Times - Vermintide,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,20 GB,36.5,30 GB,45.0,4.0,4.15,11.0,36.5,1024.0,1050.0,11.5,18.0,36.0,96.0
+S.T.A.L.K.E.R : Lost,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+War of the Roses: Kingmaker,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,5 GB,35.0,5 GB,65.0,2.0,2.215,65.0,35.0,512.0,900.0,10.05,9.5,26.0,57.6
+Legend of Mana,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,15 GB,69.5,15 GB,33.5,2.5,2.9,38.5,69.5,2048.0,1012.5,12.0,11.5,24.5,50.4
+Valheim,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,1 GB,0.0,1 GB,55.0,4.0,3.1,14.0,0.0,2560.0,1514.0,11.6,34.0,87.5,184.9
+The Colonists,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,2 GB,32.5,2 GB,65.0,2.0,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+Planet Coaster - Quick Draw Interactive Shooting Ride,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,8 GB,36.5,8 GB,32.0,4.0,3.7,27.0,36.5,1536.0,1100.5,11.05,27.0,50.0,140.85
+Doctor Who: The Edge Of Time,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,5 GB,50.0,5 GB,27.0,6.0,3.4000000000000004,14.0,50.0,4096.0,1701.0,12.05,42.0,110.5,161.64999999999998
+Vampire: The Masquerade - Swansong,Windows 10 64-bit,Windows 7 64-bit,DirectX 11,40 GB,36.5,40 GB,38.5,3.0,3.75,27.0,36.5,2048.0,1487.5,11.6,17.5,53.5,95.2
+Pizza Connection 3,Windows Vista 64-bit,Windows 10 64-bit,DirectX 11,2.5 GB,36.5,2.5 GB,27.0,3.0,3.8,27.0,36.5,1536.0,1008.0,11.05,13.5,27.5,50.25
+Roundabout,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,4 GB,67.0,4 GB,65.0,2.0,3.45,32.0,67.0,768.0,850.0,11.0,4.0,13.0,40.0
+Blackguards: Untold Legends,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,20 GB,35.0,20 GB,65.0,2.0,2.215,65.0,35.0,384.0,850.0,10.0,4.0,8.5,27.2
+Cities In Motion,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,66.5,2 GB,90.0,1.0,2.05,65.0,66.5,512.0,600.0,9.5,1.0,2.0,19.200000000000003
+Slayaway Camp,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Tiger Woods PGA Tour 12: The Masters,Windows XP 32-bit,0,DirectX 9,6 GB,30.5,6 GB,110.0,1.5,2.15,65.0,30.5,192.0,272.5,9.0,0.0,0.0,6.550000000000001
+Dead Island: Epidemic,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,6 GB,37.0,6 GB,65.0,2.0,3.23,45.0,37.0,128.0,255.0,10.05,4.0,14.0,8.15
+The Legend of Heroes: Trails into Reverie,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,25 GB,35.5,25 GB,38.5,3.0,3.1,23.0,35.5,1024.0,1237.5,11.1,15.5,49.5,79.2
+Rigid Boy 2,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Blue Fire,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,6 GB,69.5,6 GB,33.5,2.5,2.9,38.5,69.5,2048.0,1012.5,12.0,11.5,24.5,50.4
+Iron Front: Liberation 1944,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,10 GB,72.0,20 GB,65.0,2.0,3.03,38.5,72.0,128.0,350.0,10.05,2.0,4.5,11.2
+Shadwen,Windows Vista 32-bit,Windows 7 64-bit,DirectX 10,4 GB,35.5,4 GB,43.5,2.0,3.03,38.5,35.5,704.0,949.5,10.05,14.0,35.5,113.55
+Spaceland,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,1 GB,30.5,1 GB,55.0,2.0,2.8,55.0,30.5,1024.0,1112.5,11.0,18.0,31.5,87.6
+Pid,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,3 GB,39.0,3 GB,155.0,1.0,1.75,65.0,39.0,256.0,250.0,10.0,2.5,4.0,4.0
+Minecraft: Dungeons,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,6 GB,36.5,6 GB,33.5,3.0,3.75,27.0,36.5,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+Offworld Trading Company,Windows 7 64-bit,Windows 8 64-bit,DirectX 10,2 GB,66.5,2 GB,33.5,2.5,3.1,45.0,66.5,416.0,596.0,10.05,7.5,15.5,38.1
+Halo 4,Windows 7 32-bit,Windows 10 64-bit,DirectX 11,55 GB,50.0,55 GB,36.5,4.0,3.1,14.0,50.0,1024.0,1026.0,11.1,10.5,25.0,65.65
+Alchemist Simulator,Windows 7 64-bit,Windows 10 64-bit,DirectX 9,5 GB,36.5,5 GB,27.0,3.0,3.35,27.0,36.5,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+DuckTales: Remastered,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,3 GB,66.5,3 GB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Tomb Raider Definitive Survival Trilogy,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,40 GB,36.5,40 GB,27.0,3.0,3.35,18.0,36.5,2048.0,1563.5,12.05,39.0,83.5,144.05
+Marlow Briggs And The Mask Of Death,Windows 7 32-bit,Windows 7 32-bit,DirectX 9,3 GB,71.0,3 GB,77.5,2.0,2.65,45.0,71.0,0.0,400.0,10.05,2.0,3.0,0.0
+Secret Weapons Over Normandy,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,0.0,1 GB,180.0,1.0,2.2235,130.0,0.0,128.0,600.0,10.0,2.0,3.0,3.2
+The Walking Dead: Season 2 - Episode 2: A House Divided,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,2 GB,36.5,2 GB,155.0,1.0,2.5,65.0,36.5,256.0,200.0,10.1,2.0,2.0,3.2
+Mafia 3: Definitive Edition,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,50 GB,52.5,50 GB,32.0,6.0,3.7,27.0,52.5,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+Woven,Windows 7 32-bit,Windows 10 64-bit,DirectX 11,2 GB,0.0,2 GB,14.0,4.0,3.15,14.0,0.0,2560.0,1376.0,11.1,25.0,100.0,192.1
+RambleRumble,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Grimm Ep 9 - The Master Thief,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+South Park: The Fractured But Whole - Relics of Zaron,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,30 GB,36.5,30 GB,32.0,4.0,3.75,27.0,36.5,2048.0,1225.0,11.1,22.5,44.5,116.8
+Phantom Doctrine,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,20 GB,36.5,20 GB,45.0,4.0,3.35,32.0,36.5,1536.0,1275.0,11.1,21.5,57.0,120.0
+Nightmares from the Deep: The Cursed Heart,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,0.0,1 GB,90.0,1.0,1.83,155.0,0.0,320.0,550.0,9.5,1.0,2.5,6.8
+Endless Memories,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,2 GB,70.0,2 GB,55.0,2.0,2.85,38.5,70.0,768.0,899.0,11.05,3.0,6.0,21.6
+Final Fantasy XIV Online,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,15 GB,65.0,21 GB,65.0,2.0,2.78,45.0,65.0,512.0,864.0,10.0,10.0,21.5,74.6
+Atlantica Online,Windows 2000,Windows Vista 32-bit,DirectX 9,15 GB,0.0,20 GB,180.0,1.0,1.875,130.0,0.0,128.0,310.0,9.0,1.0,1.0,7.75
+Hitman 3,Windows 10 64-bit,Windows 10 64-bit,DirectX 12,80 GB,36.5,80 GB,38.5,4.0,3.4000000000000004,18.0,36.5,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+Dead Effect 2,Windows 7 64-bit,Windows 7 64-bit,DirectX 9,11 GB,52.5,11 GB,32.0,5.0,3.7,27.0,52.5,2048.0,1313.5,11.1,24.5,69.5,132.15
+Tom Clancy Splinter Cell: Conviction,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,10 GB,66.5,10 GB,77.5,1.5,1.95,65.0,66.5,256.0,650.0,9.0,0.0,0.0,41.6
+Dead GroundZ,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,4 GB,36.5,4 GB,27.0,6.0,3.4000000000000004,18.0,36.5,4096.0,1751.5,12.0,53.5,152.5,224.2
+Party Hard 2,Windows XP 64-bit,Windows XP 64-bit,DirectX 9,6 GB,64.0,6 GB,38.5,2.0,3.25,32.0,64.0,896.0,1025.0,10.5,12.5,21.5,80.0
+Overlord 2,Windows XP 32-bit,0,DirectX 9,1.5 GB,61.0,1.5 GB,65.0,2.0,1.86,65.0,61.0,384.0,750.0,9.5,1.5,3.0,36.8
+Skylanders: Giants,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,3 GB,36.0,3 GB,77.5,2.0,2.6,55.0,36.0,128.0,600.0,10.0,2.0,3.0,3.2
+10 Second Ninja,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,155.0,1.0,2.1,77.5,66.5,256.0,600.0,10.0,3.0,7.0,19.2
+Food Truck Simulator,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,15 GB,35.5,15 GB,33.5,3.0,3.0,23.0,35.5,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+QuestRun,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+We. The Revolution,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,4 GB,69.5,4 GB,45.0,2.5,3.35,32.0,69.5,512.0,1013.0,10.05,11.0,16.5,64.85
+Sweet House,Windows 7 64-bit,Windows 10 64-bit,DirectX 9,4 GB,66.5,4 GB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Chaos Legion,Windows 98,0,DirectX 8,0MB,0.0,1 GB,180.0,1.0,1.415,180.0,0.0,64.0,358.0,7.55,0.0,0.0,5.050000000000001
+The Elder Scrolls V: Dragonborn,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,1 GB,66.5,1 GB,65.0,2.0,2.73,45.0,66.5,256.0,400.0,10.1,0.0,0.0,6.4
+Age of Darkness: Final Stand,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,5 GB,0.0,5 GB,23.0,7.0,3.35,7.0,0.0,4096.0,1751.5,12.0,53.5,152.5,224.2
+Myst (2021),Windows 10 64-bit,Windows 10 64-bit,DirectX 11,20 GB,36.5,20 GB,14.0,3.0,3.4,18.0,36.5,4096.0,1751.0,12.05,42.5,113.0,168.05
+Griefhelm,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,4 GB,69.5,4 GB,55.0,4.0,2.75,38.5,69.5,1152.0,943.5,11.0,26.5,42.0,134.15
+Gleamlight,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,10 GB,36.5,10 GB,27.0,4.0,3.4,27.0,36.5,2560.0,1501.0,11.15,32.5,113.5,240.15
+Sherlock Holmes Chapter One,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,40 GB,36.5,40 GB,38.5,3.0,3.75,27.0,36.5,2048.0,1487.5,11.6,17.5,53.5,95.2
+Titan Quest: Immortal Throne,Windows 2000,Windows XP 32-bit,DirectX 9,5 GB,0.0,5 GB,180.0,1.0,2.5835,110.0,0.0,64.0,375.0,8.1,0.0,0.0,6.0
+Argo,Windows Vista 32-bit,Windows 7 64-bit,DirectX 10,15 GB,67.5,25 GB,77.5,2.0,2.9,38.5,67.5,384.0,865.0,10.05,10.5,22.5,42.1
+StarCraft II: Wings of Liberty,Windows XP 32-bit,Windows Vista 32-bit,DirectX 9,12 GB,35.5,12 GB,130.0,1.0,2.15,65.0,35.5,384.0,450.0,10.0,8.5,10.5,43.2
+Crowns and Pawns: Kingdom of Deceit,Windows 7 64-bit,Windows 10 64-bit,DirectX 10,4 GB,30.5,4 GB,180.0,1.0,2.8,55.0,30.5,256.0,600.0,10.0,2.0,3.0,8.0
+Dirt 3,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,15 GB,36.5,15 GB,65.0,2.0,2.95,45.0,36.5,256.0,600.0,10.0,3.0,7.0,19.2
+Dear Esther: Landmark Edition,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,30.0,2 GB,90.0,1.0,2.65,65.0,30.0,128.0,237.5,9.0,0.0,0.0,3.8
+Franchise Hockey Manager 4,Windows 7 64-bit,Windows 10 64-bit,DirectX 10,6 GB,30.5,6 GB,180.0,1.0,2.8,55.0,30.5,256.0,600.0,10.0,2.0,3.0,8.0
+Headlander,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,2 GB,37.0,2 GB,65.0,2.0,3.23,45.0,37.0,128.0,255.0,10.05,4.0,14.0,8.15
+Dishonored II,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,60 GB,36.5,60 GB,32.0,6.0,3.7,27.0,36.5,2560.0,1438.5,11.1,27.5,100.5,204.1
+Dr Who Episode 5 - The Gunpowder Plot,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1.5 GB,66.5,1.5 GB,130.0,1.0,1.85,65.0,66.5,192.0,525.0,9.5,1.5,3.0,16.799999999999997
+Terminator: Resistance,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,32 GB,0.0,32 GB,27.0,5.0,3.1,13.0,0.0,2048.0,1751.0,12.05,33.5,70.0,112.05
+Alder's Blood,Windows 7 32-bit,Windows 10 64-bit,DirectX 9,2 GB,30.5,2 GB,155.0,1.0,2.8,55.0,30.5,640.0,946.5,10.05,12.0,21.5,75.0
+Teslagrad,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,66.5,1 GB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Survivor Squad,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,66.5,1 GB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Total War: Warhammer 2 - Tretch Craventail,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,60 GB,36.5,60 GB,65.0,2.5,3.6,27.0,36.5,1024.0,1050.0,11.5,18.0,36.0,96.0
+Football Manager 2020,Windows Vista 32-bit,Windows 7 64-bit,DirectX 9,7 GB,72.0,7 GB,130.0,1.0,2.615,45.0,72.0,512.0,650.0,10.05,4.5,9.0,24.8
+Walker,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,36.0,1 GB,180.0,1.0,1.85,65.0,36.0,320.0,550.0,9.5,1.0,2.5,6.8
+Jupiter Hell,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,2 GB,71.0,2 GB,55.0,2.0,2.5,55.0,71.0,1280.0,850.0,11.0,3.0,4.0,20.8
+Chompy Chomp Chomp,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+MotoGP 17,Windows 7 64-bit,Windows 10 64-bit,DirectX 10,33 GB,36.5,33 GB,38.5,4.0,4.05,11.0,36.5,2048.0,845.5,11.0,10.0,24.0,27.05
+Wasteland 3,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,55 GB,36.5,55 GB,32.0,6.0,3.4,18.0,36.5,2560.0,1438.5,11.1,31.5,108.5,228.15
+The Room VR: A Dark Matter,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,4 GB,36.5,4 GB,23.0,3.0,3.4,18.0,36.5,4096.0,1701.0,12.05,42.0,110.5,161.64999999999998
+Planetary Annihilation: TITANS,Windows 7 64-bit,Windows 7 64-bit,DirectX 9,5 GB,36.5,7 GB,38.5,3.0,3.5,32.0,36.5,768.0,900.0,11.0,3.5,11.0,57.6
+Whispering Willows,Windows 7 32-bit,Windows 7 64-bit,DirectX 9,3 GB,37.0,3 GB,65.0,2.0,3.23,45.0,37.0,128.0,655.0,10.5,4.5,15.5,20.950000000000003
+Mighty Goose,Windows 7 64-bit,Windows 10 64-bit,DirectX 9,1 GB,32.5,1 GB,65.0,2.0,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+Inscryption,Windows 7 64-bit,Windows 10 64-bit,,2 GB,33.5,3 GB,38.5,4.0,3.7,27.0,33.5,1024.0,1012.5,11.0,23.5,33.0,113.2
+Pagan Peak VR,Windows 10 64-bit,Windows 10 64-bit,DirectX 12,16 GB,50.0,16 GB,14.0,4.0,3.4000000000000004,14.0,50.0,5120.0,1876.0,12.05,62.5,165.0,208.1
+Homefront: The Revolution,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,38 GB,36.5,38 GB,27.0,4.0,3.4,32.0,36.5,1536.0,1313.5,11.5,22.0,57.5,116.15
+Soccer Manager 2016,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,3 GB,66.5,3 GB,180.0,1.0,2.1,77.5,66.5,192.0,562.5,9.0,2.5,2.5,29.2
+Year Walk,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,1.1 GB,35.0,1.1 GB,180.0,1.0,2.8,97.5,35.0,320.0,550.0,9.5,1.0,2.5,6.8
+Dragon Knights,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,3 GB,37.0,5 GB,110.0,1.0,2.9,45.0,37.0,384.0,750.0,9.55,0.0,0.0,24.0
+The Next Door,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,1 GB,32.5,1 GB,65.0,2.0,3.2,33.5,32.5,2048.0,1200.0,11.15,12.5,29.5,76.8
+RuneScape 3,Windows Vista 64-bit,Windows 10 64-bit,DirectX 10,8 GB,70.0,8 GB,38.5,3.0,2.85,38.5,70.0,1280.0,716.5,11.0,3.0,4.0,18.65
+Trine 2,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1.5 GB,30.0,1.5 GB,55.0,2.0,2.65,65.0,30.0,256.0,675.0,9.55,1.5,1.5,14.0
+Dark Quest 2,Windows 7 32-bit,Windows 10 64-bit,DirectX 9,2 GB,66.5,2 GB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Spirit of the North,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,4 GB,36.5,4 GB,27.0,6.0,3.35,27.0,36.5,2560.0,1501.5,11.6,34.0,89.5,176.1
+Fallout 3: Broken Steel,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,66.5,2 GB,130.0,1.0,1.85,65.0,66.5,256.0,790.0,9.0,3.0,3.0,50.55
+Life After Us: Fading Light,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Court of Ashes,Windows 7 64-bit,Windows 10 64-bit,DirectX 10,2 GB,30.5,2 GB,180.0,1.0,2.8,55.0,30.5,256.0,600.0,10.0,2.0,3.0,8.0
+Sokobond,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Medieval Kingdom Wars,Windows Vista 32-bit,Windows 7 64-bit,DirectX 9,5 GB,72.0,7 GB,55.0,2.0,2.6,55.0,72.0,1024.0,900.0,11.0,4.0,13.5,28.8
+Age of Civilizations 2,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,1 GB,69.5,1 GB,33.5,2.5,2.9,38.5,69.5,2048.0,1012.5,12.0,11.5,24.5,50.4
+Outlast 2,Windows Vista 64-bit,Windows 7 64-bit,DirectX 10,30 GB,71.5,30 GB,38.5,2.5,2.8,32.0,71.5,704.0,949.5,10.05,14.0,35.5,113.55
+Final Approach,Windows 7 64-bit,Windows 7 64-bit,,20 GB,36.5,20 GB,27.0,6.0,4.05,11.0,36.5,4096.0,1501.5,11.6,63.5,137.5,272.2
+Ground Control Simulator,Windows 2000,Windows XP 32-bit,DirectX 9,0MB,0.0,0MB,180.0,1.0,1.83,155.0,0.0,256.0,450.0,9.55,1.0,1.0,7.2
+Salem,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,3 GB,35.0,3 GB,65.0,2.0,2.7,38.5,35.0,128.0,721.5,10.5,4.0,14.0,23.1
+TrackMania 2: Canyon,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,15 GB,61.0,15 GB,180.0,1.0,2.75,65.0,61.0,128.0,0.0,10.0,1.0,1.0,0.0
+NBA 2K21,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,110 GB,36.5,110 GB,32.0,3.0,3.55,27.0,36.5,1024.0,1013.5,11.05,14.5,32.5,64.85
+Red Orchestra: Ostfront 41-45,Windows XP 32-bit,0,DirectX 9,2 GB,0.0,0,180.0,1.0,2.2,130.0,0.0,320.0,550.0,9.5,1.0,2.5,6.8
+DeltaOne,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Game of Thrones: Episode 2 - The Lost Lords,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,3 GB,32.5,3 GB,65.0,2.0,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+Inmost,Windows 7 32-bit,Windows 10 64-bit,DirectX 9,4 GB,30.5,4 GB,55.0,2.0,2.8,55.0,30.5,512.0,900.0,11.0,4.5,14.5,57.6
+Nioh: Complete Edition,Windows 10 64-bit,0,DirectX 11,100 GB,36.5,100 GB,18.0,4.0,3.45,18.0,36.5,3072.0,1376.0,11.1,36.5,138.5,264.2
+Total War: Rome II - Caesar in Gaul,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,35 GB,66.0,35 GB,65.0,2.0,2.95,38.5,66.0,384.0,750.0,10.05,3.0,7.0,17.6
+BioShock™ 2 Remastered,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,25 GB,66.5,25 GB,65.0,2.0,3.1,45.0,66.5,2048.0,1313.5,11.1,23.5,75.0,132.15
+The Purring Quest,Windows 7 32-bit,Windows 7 64-bit,DirectX 9,3 GB,67.5,3 GB,67.5,2.0,2.35,48.5,67.5,320.0,550.0,9.5,1.0,2.5,6.8
+Afterparty,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,40 GB,36.5,40 GB,38.5,3.0,3.75,27.0,36.5,2048.0,1487.5,11.6,17.5,53.5,95.2
+Agatha Christie - Hercule Poirot: The First Cases,Windows 7 64-bit,Windows 7 64-bit,DirectX 10,10 GB,45.0,10 GB,65.0,1.0,3.4,59.0,45.0,1792.0,1251.0,11.55,33.5,69.0,192.2
+Kingdom Hearts Melody of Memory,Windows 8 64-bit,Windows 8 64-bit,,15 GB,68.0,15 GB,27.0,3.0,3.3,27.0,68.0,1536.0,1437.5,11.6,17.5,48.5,92.0
+Crossroads Inn,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,6 GB,36.5,6 GB,32.0,3.0,3.5,32.0,36.5,1024.0,1012.5,11.0,22.5,40.5,113.2
+Wild West and Wizards,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,4 GB,70.0,4 GB,38.5,3.0,2.85,38.5,70.0,1024.0,1025.5,11.0,27.5,47.5,131.25
+Retimed,Windows 7 32-bit,Windows 10 64-bit,DirectX 11,0MB,70.5,0MB,55.0,2.0,2.4,55.0,70.5,768.0,950.0,10.5,17.5,35.5,92.8
+Dark And Light,Windows 7 64-bit,Windows 7 64-bit,DirectX 10,50 GB,36.5,50 GB,32.0,6.0,3.5,18.0,36.5,2048.0,1438.5,11.05,26.5,83.5,160.1
+Stealthy Ninja,Windows XP 32-bit,Windows 10 64-bit,DirectX 9,0MB,71.0,0MB,55.0,2.0,2.5,55.0,71.0,256.0,533.5,10.05,1.5,2.5,17.05
+Shogun 2: Total War - Fall of the Samurai: Sendai Faction Pack,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,0MB,37.0,0MB,130.0,1.0,3.165,45.0,37.0,256.0,325.0,9.5,2.0,2.0,8.4
+Arons Adventure,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,15 GB,50.0,15 GB,32.0,5.0,3.5,13.0,50.0,1536.0,1437.5,11.6,17.5,48.5,92.0
+Ni No Kuni 3,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,40 GB,52.5,40 GB,27.0,5.0,3.7,27.0,52.5,2048.0,1300.0,11.6,16.5,49.5,83.2
+Watching Grass Grow In VR - The Game,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,0MB,36.5,0MB,27.0,6.0,4.05,11.0,36.5,4096.0,1501.5,11.6,63.5,137.5,272.2
+Call of Duty 4: Modern Warfare Remastered,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,55 GB,36.0,55 GB,38.5,3.0,2.83,45.0,36.0,1536.0,950.0,11.05,20.5,37.0,88.0
+Dragon Age: Origins - Return To Ostagar,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,30.0,1 GB,65.0,2.0,2.6,55.0,30.0,256.0,790.0,9.0,0.0,0.0,42.55
+Path of Exile: Atlas of Worlds,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,8 GB,30.0,8 GB,90.0,1.0,2.5,77.5,30.0,192.0,712.5,9.55,1.5,1.5,15.2
+Virginia,Windows 7 32-bit,Windows 10 64-bit,DirectX 11,5 GB,36.5,5 GB,29.5,3.0,3.15,32.0,36.5,1024.0,1200.0,11.15,12.5,29.5,76.8
+Bunny Park,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,0MB,36.5,0MB,32.0,5.0,3.15,32.0,36.5,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+Factorio,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0,66.5,0,55.0,2.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+The Wolf Among Us,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,36.5,2 GB,155.0,1.0,2.5,65.0,36.5,256.0,600.0,10.55,2.0,2.5,16.0
+Esper 2,Windows 7 64-bit,Windows 7 64-bit,,0,50.0,0,27.0,6.0,3.85,23.0,50.0,4096.0,1501.5,11.6,63.5,137.5,272.2
+The Elder Scrolls V: Hearthfire,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,1 GB,66.5,1 GB,65.0,2.0,2.83,45.0,66.5,768.0,737.5,10.05,9.0,21.0,70.4
+Fears to Fathom - Home Alone,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,4 GB,36.5,4 GB,38.5,3.0,3.75,27.0,36.5,2560.0,1514.0,11.6,34.0,87.5,184.9
+Plants vs Zombies: Battle for Neighborville,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,15 GB,68.5,15 GB,27.0,3.0,3.35,27.0,68.5,2048.0,895.5,11.05,10.0,24.0,28.65
+The Academy: The First Riddle,Windows 10 64-bit,Windows 10 64-bit,DirectX 9,4 GB,70.0,4 GB,55.0,2.0,2.85,38.5,70.0,2048.0,1351.0,11.1,28.0,95.0,148.89999999999998
+Boris The Rocket,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,4 GB,33.5,4 GB,38.5,3.0,3.45,27.0,33.5,1664.0,1075.0,11.05,30.5,62.0,152.8
+Project CARS 3,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,50 GB,0.0,50 GB,27.0,6.0,3.7,13.0,0.0,2560.0,1438.5,11.1,32.0,126.5,228.15
+Aery VR,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,1 GB,36.5,2 GB,27.0,6.0,3.55,18.0,36.5,4096.0,1501.5,11.6,63.5,137.5,272.2
+Train Simulator 2013,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,6 GB,36.0,6 GB,55.0,2.0,3.165,45.0,36.0,768.0,750.0,10.5,6.5,9.5,35.2
+99 Levels To Hell,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,1.5 GB,37.0,2 GB,65.0,2.0,3.23,45.0,37.0,128.0,255.0,10.05,4.0,14.0,8.15
+Sniper Elite 3 - Target Hitler: Hunt the Grey Wolf,Windows Vista 32-bit,Windows 7 64-bit,DirectX 11,18 GB,35.5,18 GB,90.0,2.0,2.98,45.0,35.5,512.0,963.0,10.55,7.5,12.5,61.65
+Dawn of Man,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,2 GB,69.5,2 GB,33.5,2.5,2.9,38.5,69.5,2048.0,1012.5,12.0,11.5,24.5,50.4
+Hatoful Boyfriend: Holiday Star,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,36.5,2 GB,155.0,1.0,2.5,65.0,36.5,320.0,500.0,9.55,1.0,1.0,8.0
+Star Wars: Battlefront - Rogue One: Scarif,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,40 GB,50.0,40 GB,23.0,3.0,3.7,23.0,50.0,2048.0,1351.0,11.1,26.5,69.0,148.89999999999998
+Dyad,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,1.337 GB,72.0,1.337 GB,38.5,2.5,3.03,38.5,72.0,768.0,650.0,10.55,4.0,15.0,20.8
+Rogue Glitch,Windows XP 64-bit,Windows 7 64-bit,DirectX 9,1 GB,67.0,1 GB,43.5,3.0,2.9000000000000004,48.5,67.0,512.0,850.0,11.0,4.0,8.0,20.0
+Endless Legend - Symbiosis,Windows Vista 64-bit,Windows 7 64-bit,DirectX 9,4 GB,36.5,4 GB,55.0,3.5,3.5,32.0,36.5,1024.0,950.0,11.5,23.5,37.5,121.6
+Retaliation: Enemy Mine,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Builders Of Egypt,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,20 GB,36.5,20 GB,38.5,3.0,3.5,27.0,36.5,2560.0,1563.5,11.55,32.5,128.5,244.15
+Brawl Busters,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,66.5,3 GB,155.0,1.0,1.85,65.0,66.5,128.0,375.0,9.0,0.0,0.0,6.0
+Grimm Ep 15 - The Pied Piper,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Dead Alliance,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,15 GB,69.5,15 GB,33.5,2.5,2.9,38.5,69.5,1536.0,1375.0,11.6,17.0,42.5,88.0
+Drift21,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,20 GB,36.5,20 GB,27.0,6.0,3.35,27.0,36.5,4096.0,1751.5,12.0,53.5,152.5,224.2
+Train Simulator 2012: Class 77 and 76 Add-On,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,36.0,0MB,130.0,1.0,1.85,65.0,36.0,256.0,400.0,10.5,3.5,4.5,9.6
+Dead by Daylight,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,15 GB,36.5,0,27.0,5.0,3.15,27.0,36.5,1024.0,950.0,11.5,23.5,37.5,121.6
+Test Drive Unlimited 2,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,14 GB,36.5,14 GB,65.0,2.0,2.75,65.0,36.5,768.0,550.0,10.05,7.5,16.5,28.8
+Battlefield 2142,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,32.5,4 GB,155.0,1.0,2.6,90.0,32.5,192.0,260.0,9.0,0.0,0.0,4.15
+Outbreak Pandemic Evolution,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,15 GB,36.5,0,38.5,3.0,3.7,32.0,36.5,1536.0,1375.0,11.2,16.5,41.5,88.0
+Blood Bowl: Chaos Edition,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,3 GB,66.5,3 GB,130.0,1.0,1.88,65.0,66.5,128.0,200.0,10.05,2.0,2.0,6.4
+New World,Windows 10 64-bit,Windows 10 64-bit,DirectX 12,35 GB,36.5,35 GB,32.0,4.0,3.45,23.0,36.5,2560.0,1376.0,11.1,30.5,107.0,216.15
+Dead Rising Remastered,Windows 7 32-bit,Windows 7 64-bit,DirectX 11,30 GB,36.5,30 GB,65.0,2.0,3.55,27.0,36.5,1024.0,1112.5,11.0,18.0,31.5,87.6
+Quake II RTX,Windows 7 64-bit,Windows 10 64-bit,,2 GB,36.5,2 GB,27.0,6.0,3.6,17.0,36.5,7168.0,1750.0,12.05,95.5,225.0,392.0
+Code Vein,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,50 GB,50.0,50 GB,32.0,6.0,3.25,14.0,50.0,2048.0,1351.0,11.1,30.5,77.0,172.95
+Wrest,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,10 GB,36.5,10 GB,27.0,6.0,3.65,27.0,36.5,4096.0,1501.5,11.6,63.5,137.5,272.2
+Propagation VR,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,5 GB,36.5,5 GB,32.0,5.0,3.55,18.0,36.5,7168.0,2001.0,12.05,61.5,159.5,224.1
+Doctor Who: The Eternity Clock,Windows XP 32-bit,Windows XP 64-bit,DirectX 9,1.7 GB,0.0,1.7 GB,77.5,2.0,2.6,45.0,0.0,768.0,890.0,10.55,20.0,27.5,102.55
+Guns of Icarus,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,3 GB,0.0,3 GB,155.0,1.0,1.73,155.0,0.0,256.0,412.5,9.5,1.0,2.5,13.2
+Arcane Worlds,Windows XP 32-bit,Windows Vista 32-bit,DirectX 9,0,66.5,0,110.0,1.0,2.1,77.5,66.5,160.0,262.5,9.0,0.0,0.0,3.2
+Dovetail Games Flight School,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,40 GB,72.0,40 GB,38.5,2.0,2.85,38.5,72.0,768.0,715.5,11.0,2.5,4.5,11.45
+Batman: Arkham Knight - Red Hood Story Pack,Windows 7 64-bit,Windows 8 64-bit,DirectX 11,45 GB,52.5,55 GB,45.0,4.0,3.7,27.0,52.5,2560.0,1376.0,11.1,25.5,86.5,192.1
+Terrorist Takedown: Covert Operations,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,36.0,2 GB,180.0,1.0,1.85,65.0,36.0,320.0,550.0,9.5,1.0,2.5,6.8
+Aion: Ascension,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,40 GB,72.0,40 GB,130.0,1.0,3.015,45.0,72.0,256.0,740.0,9.0,3.0,3.0,78.7
+Warhammer 40000: Regicide,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,2 GB,32.5,2 GB,65.0,2.0,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+Insanitys Blade,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Dishonored: Dunwall City Trials,Windows XP 64-bit,Windows 7 64-bit,DirectX 10,1 GB,70.5,1 GB,65.0,2.0,2.35,65.0,70.5,512.0,595.0,10.1,3.0,6.5,9.5
+Dual Universe,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Alba: A Wildlife Adventure,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,2 GB,50.0,2 GB,32.0,5.0,3.4,14.0,50.0,1024.0,445.5,11.5,8.5,27.5,14.25
+Stacking,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,1.5 GB,72.5,1.5 GB,77.5,2.0,2.2,77.5,72.5,320.0,815.0,10.05,9.0,18.5,45.75
+Lego: Batman 2 - DC Super Heroes,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,4 GB,66.0,4 GB,155.0,1.0,2.13,77.5,66.0,256.0,200.0,10.55,1.5,2.0,3.2
+Bloodstained: Ritual of the Night,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,10 GB,36.5,10 GB,27.0,4.0,3.4,27.0,36.5,2560.0,1501.0,11.15,32.5,113.5,240.15
+BloodRayne 2,Windows 98,Windows XP 32-bit,DirectX 8,0MB,0.0,4.5 GB,180.0,1.0,1.83,155.0,0.0,96.0,375.0,7.55,0.0,0.0,6.0
+Electro Ride: The Neon Racing,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,5 GB,36.0,5 GB,38.5,3.0,3.85,27.0,36.0,512.0,600.0,10.05,4.5,14.0,19.200000000000003
+The Dwarves,Windows 7 64-bit,Windows 10 64-bit,,25 GB,52.5,25 GB,45.0,4.0,3.7,27.0,52.5,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+Decisive Campaigns: The Blitzkrieg from Warsaw to Paris,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Angvik,Windows XP 32-bit,Windows 7 64-bit,DirectX 8,0,37.0,0,65.0,2.0,3.23,45.0,37.0,128.0,255.0,10.05,4.0,14.0,8.15
+The Culling 2,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,8 GB,33.5,8 GB,27.0,6.0,3.9,27.0,33.5,1024.0,1125.0,11.1,20.0,43.5,104.0
+A Fistful of Gun,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,10 GB,32.5,10 GB,65.0,2.0,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+Exodus Wars: Fractured Empire,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,5 GB,37.0,5 GB,65.0,2.0,3.23,45.0,37.0,128.0,255.0,10.05,4.0,14.0,8.15
+Disintegration,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,15 GB,0.0,15 GB,23.0,4.0,3.55,10.5,0.0,1664.0,1075.0,11.05,28.5,49.5,152.8
+The Town Of Light,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,10 GB,69.5,10 GB,33.5,2.5,2.9,38.5,69.5,1024.0,1050.0,11.5,18.0,36.0,96.0
+Metro: Exodus - Sam's Story,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,50 GB,36.5,50 GB,27.0,6.0,3.5,18.0,36.5,2048.0,1476.0,11.6,39.5,69.0,132.85
+Lost Soul Aside,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,30 GB,66.0,30 GB,45.0,2.5,2.6,33.5,66.0,1408.0,1029.0,10.5,21.0,33.5,123.65
+Half-Life 2: Episode 2,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1.5 GB,0.0,1.5 GB,180.0,1.0,2.5835,110.0,0.0,128.0,200.0,10.0,2.0,3.0,3.2
+Haunted House 2015,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,8 GB,71.0,8 GB,65.0,2.0,2.58,45.0,71.0,640.0,915.5,10.55,18.5,28.0,90.6
+Railway Empire,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,7 GB,69.5,7 GB,45.0,4.0,3.05,32.0,69.5,1536.0,1101.0,11.0,26.0,56.0,140.95
+Skyhill: Black Mist,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,4 GB,70.0,4 GB,45.0,2.0,2.85,38.5,70.0,384.0,865.0,10.05,10.5,16.0,55.35
+Broomstick League,Windows 7 64-bit,Windows 10 64-bit,DirectX 10,5 GB,33.5,5 GB,55.0,2.5,3.45,27.0,33.5,1024.0,1187.5,11.1,16.5,37.0,76.0
+Command & Conquer: Generals,Windows 98,Windows XP 32-bit,DirectX 9,2 GB,0.0,2 GB,180.0,1.0,1.665,180.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0
+In Other Waters,Windows 7 32-bit,Windows 10 64-bit,DirectX 10,0MB,70.0,0MB,55.0,2.0,2.85,38.5,70.0,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+Tom Clancy: Ghost Recon Future Soldier: Raven Strike,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,25 GB,66.5,25 GB,77.5,2.0,2.83,45.0,66.5,768.0,650.0,10.55,4.0,12.5,13.6
+The Guild 3,Windows 7 32-bit,Windows 7 64-bit,DirectX 11,5 GB,69.5,4 GB,65.0,2.0,2.9,38.5,69.5,1664.0,918.5,11.0,23.5,43.0,130.95
+Unholy Heights,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,0.0,0MB,90.0,1.0,1.665,155.0,0.0,64.0,100.0,9.0,0.0,0.0,1.6
+Civilization: Beyond Earth,Windows Vista 32-bit,Windows 7 64-bit,DirectX 11,8 GB,30.5,8 GB,77.5,2.0,1.965,65.0,30.5,1152.0,850.0,10.55,3.0,4.5,27.200000000000003
+Half Life 2 Deathmatch,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,0.0,1 GB,155.0,1.0,2.075,130.0,0.0,32.0,166.5,3.5,0.0,0.0,1.35
+Elite Dangerous: Horizons,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,7 GB,52.5,7 GB,65.0,4.0,3.85,27.0,52.5,704.0,949.5,10.05,14.0,33.5,113.55
+Rainbow Six: Parasite,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,50 GB,67.0,50 GB,38.5,3.0,3.2,32.0,67.0,1024.0,1050.0,11.5,18.0,36.0,96.0
+Mount and Blade: Warband,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,0.0,1 GB,155.0,1.0,2.9,77.5,0.0,128.0,400.0,9.0,0.0,0.0,6.4
+Sniper Elite: Nazi Zombie Army,Windows Vista 32-bit,Windows 7 64-bit,DirectX 9,5 GB,36.0,5 GB,90.0,1.0,2.6,90.0,36.0,512.0,450.0,10.05,4.5,13.5,14.4
+SCP: Blackout,Windows 7 32-bit,Windows 10 64-bit,DirectX 11,12 GB,36.5,14 GB,27.0,6.0,3.65,27.0,36.5,4096.0,1501.5,11.6,63.5,137.5,272.2
+Kitaria Fables,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,4 GB,36.5,4 GB,32.0,6.0,3.4000000000000004,18.0,36.5,1024.0,1037.5,11.0,17.5,31.5,116.4
+DOTA Underlords,Windows 7 32-bit,Windows 7 64-bit,DirectX 11,7 GB,32.5,7 GB,38.5,3.0,3.35,27.0,32.5,1536.0,950.0,12.0,7.0,17.0,15.2
+8Doors: Arums Afterlife Adventure,Windows 7 64-bit,Windows 10 64-bit,DirectX 10,8 GB,67.0,8 GB,43.5,3.0,2.9000000000000004,48.5,67.0,1024.0,1250.5,11.05,21.0,50.5,112.05
+Farming Simulator 2013,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,66.5,2 GB,130.0,1.0,1.95,65.0,66.5,128.0,200.0,10.5,2.0,4.0,6.4
+Gigantic Army,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Sims 3: Barnacle Bay,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,155.0,1.0,2.05,65.0,66.5,192.0,137.5,9.0,0.0,0.0,4.4
+Friday The 13th: The Video Game,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,4 GB,68.5,4 GB,38.5,2.0,3.55,25.0,68.5,1024.0,1237.5,11.1,15.5,49.5,79.2
+Super Audio Spectrum,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Tera-Online,Windows 7 32-bit,Windows XP 64-bit,DirectX 9,42 GB,33.5,42 GB,32.0,3.0,3.65,27.0,33.5,512.0,1013.0,10.05,11.0,23.0,64.85
+Police Simulator: Patrol Duty,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,8 GB,36.5,8 GB,18.0,4.0,3.55,18.0,36.5,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+Hypercharge: Unboxed,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,13 GB,36.5,15 GB,38.5,4.0,3.3,18.0,36.5,1536.0,945.5,11.0,10.0,24.0,46.25
+DISTRAINT,Windows Vista 32-bit,Windows 7 64-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Steel Division: Normandy 44 - Back to Hell,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,32 GB,67.0,32 GB,32.0,3.0,2.95,32.0,67.0,1024.0,800.0,11.0,9.0,16.0,25.6
+Anno 2205,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,35 GB,69.5,35 GB,45.0,4.0,3.05,32.0,69.5,1024.0,1101.0,11.0,26.0,56.0,140.95
+Flatout 4: Total Insanity,Windows 7 32-bit,Windows 10 64-bit,DirectX 11,10 GB,67.0,10 GB,33.5,2.0,3.3,27.0,67.0,1024.0,1187.5,11.1,15.0,30.0,76.0
+Vedelem: The Golden Horde,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,40 GB,36.5,40 GB,27.0,6.0,3.75,27.0,36.5,1024.0,1751.0,12.05,33.0,62.5,56.05
+Harold,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Gun,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2.8 GB,0.0,2.8 GB,180.0,1.0,2.1165,130.0,0.0,128.0,166.5,9.0,0.0,0.0,2.65
+Waltz of the Wizard,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,2 GB,71.0,5 GB,27.0,6.0,3.05,27.0,71.0,4096.0,1501.5,11.6,63.5,137.5,272.2
+Tales of Vesperia: Definitive Edition,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,25 GB,35.5,25 GB,38.5,5.0,3.05,18.0,35.5,2560.0,1376.0,11.1,25.5,86.5,192.1
+Prison Simulator,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,4 GB,36.5,4 GB,38.5,3.0,3.75,27.0,36.5,1536.0,1313.0,11.5,22.0,53.5,116.05
+Deadly Days,Windows Vista 32-bit,Windows 10 64-bit,DirectX 10,1 GB,30.5,1 GB,155.0,1.0,2.8,55.0,30.5,768.0,950.0,11.05,5.0,11.0,39.2
+Killer is Dead,Windows XP 32-bit,Windows 7 64-bit,DirectX 10,13 GB,36.5,13 GB,130.0,1.0,3.3,32.0,36.5,128.0,200.0,10.0,2.0,3.0,3.2
+Crush Crush,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,66.5,1 GB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Rockefeller - The Black Gold,Windows Vista 32-bit,Windows XP 32-bit,DirectX 10,3 GB,66.5,3 GB,90.0,1.0,1.85,65.0,66.5,384.0,750.0,9.5,2.0,4.0,40.0
+Yu-Gi-Oh! Online: Duel Evolution,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,36.0,2 GB,180.0,1.0,1.85,65.0,36.0,320.0,550.0,9.5,1.0,2.5,6.8
+Yelaxot,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Creeper World 3: Arc Eternal,Windows XP 32-bit,Windows Vista 32-bit,DirectX 9,1.5 GB,66.5,1 GB,155.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Subsistence,Windows 7 32-bit,Windows 7 64-bit,DirectX 9,1.5 GB,69.5,1.5 GB,65.0,2.0,2.9,38.5,69.5,768.0,450.0,11.05,11.0,19.0,57.6
+Classified Stories: The Tome of Myrkah,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,8 GB,33.5,8 GB,48.5,3.0,3.35,27.0,33.5,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+Party of Sin,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,0MB,72.0,0MB,65.0,2.0,3.115,45.0,72.0,128.0,721.5,10.5,4.0,14.0,23.1
+Pandora: First Contact,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,1 GB,71.5,2 GB,65.0,2.0,2.5650000000000004,48.5,71.5,128.0,372.5,9.0,0.0,0.0,9.75
+The Hat Man: Shadow Ward,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+XCOM: Enemy Within,Windows Vista 32-bit,Windows 7 64-bit,DirectX 9,20 GB,71.0,20 GB,65.0,2.0,2.5,55.0,71.0,384.0,600.0,10.0,3.0,7.0,19.2
+Risk: Factions,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0,36.0,0,180.0,1.0,1.85,65.0,36.0,320.0,550.0,9.5,1.0,2.5,6.8
+Nascar Racing Season 2003,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0,66.5,0,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Saviors,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Among The Sleep,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,2 GB,70.5,2 GB,65.0,2.0,2.45,45.0,70.5,128.0,683.5,10.05,3.5,6.0,21.85
+Starmancer,Windows 7 64-bit,Windows 10 64-bit,DirectX 10,0MB,70.5,1 GB,55.0,2.0,2.4,55.0,70.5,768.0,899.0,11.05,3.0,6.0,21.6
+Battle Planet - Judgement Day,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,2 GB,36.5,2 GB,27.0,3.0,3.1500000000000004,18.0,36.5,1024.0,1026.0,11.0,27.5,51.5,131.35000000000002
+Cannibal Cuisine,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,1 GB,70.0,1 GB,55.0,2.0,2.85,38.5,70.0,1024.0,1150.0,11.05,15.0,34.0,107.2
+Risen 2: Treasure Isle,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,36.0,1 GB,77.5,2.0,3.2,45.0,36.0,640.0,865.0,10.55,7.0,11.0,40.95
+Online Dragon Ball,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+SOS,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,8 GB,36.5,8 GB,65.0,2.0,3.75,27.0,36.5,2048.0,1351.0,11.1,26.5,69.0,148.89999999999998
+Enemy Mind,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Long Gone Days,Windows Vista 32-bit,Windows 7 64-bit,DirectX 9,10 GB,32.5,10 GB,65.0,2.0,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+BattleTech,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,30 GB,36.5,30 GB,38.5,2.5,3.5,27.0,36.5,1024.0,1101.0,11.0,26.5,60.5,140.95
+What The Golf?,Windows 7 32-bit,Windows 10 64-bit,DirectX 11,1 GB,70.5,1 GB,55.0,4.0,2.53,55.0,70.5,1536.0,1025.0,11.5,13.5,28.5,51.2
+Sentinels of Freedom,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,6 GB,36.5,6 GB,55.0,2.0,2.9000000000000004,55.0,36.5,2048.0,1351.0,11.1,26.5,69.0,148.89999999999998
+Dead Island 2,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,40 GB,36.5,40 GB,38.5,3.0,3.75,27.0,36.5,2048.0,1487.5,11.6,17.5,53.5,95.2
+Priest Simulator,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,10 GB,36.0,10 GB,17.0,2.0,3.35,17.0,36.0,1024.0,1626.0,11.55,22.0,75.0,72.1
+Hero Generations: ReGen,Windows Vista 32-bit,Windows Vista 32-bit,DirectX 9,0,66.5,0,130.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Idol Hands,Windows 7 32-bit,Windows 7 64-bit,DirectX 11,0MB,35.5,0MB,38.5,3.0,2.615,45.0,35.5,1024.0,783.5,10.55,3.0,3.0,25.05
+Dino Run,Windows Vista 32-bit,Windows XP 32-bit,DirectX 9,0MB,0.0,0MB,180.0,1.0,2.1815,130.0,0.0,160.0,316.0,8.0,0.0,0.0,2.5
+Abyss Odyssey,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,4 GB,71.5,4 GB,65.0,2.0,2.8,38.5,71.5,640.0,968.5,10.05,15.0,29.5,97.4
+Narcos: Rise of the Cartels,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,12 GB,0.0,12 GB,38.5,3.0,3.5,14.0,0.0,1024.0,1012.5,11.0,23.5,33.0,113.2
+Horizon,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,36.0,2 GB,180.0,1.0,1.85,65.0,36.0,320.0,550.0,9.5,1.0,2.5,6.8
+Darksiders,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,12 GB,66.0,12 GB,90.0,1.0,2.415,65.0,66.0,128.0,500.0,9.0,1.5,1.5,27.2
+The Riftbreaker,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,8 GB,36.5,8 GB,38.5,3.5,3.45,23.0,36.5,1536.0,1325.0,11.2,23.5,47.0,129.6
+Defenders of Time,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+"I Love You, Colonel Sanders!",Windows 7 64-bit,Windows 10 64-bit,DirectX 11,2 GB,36.5,0,55.0,2.0,2.9000000000000004,55.0,36.5,768.0,950.0,11.05,5.0,11.0,39.2
+Grimm Ep 22 - The Adventures of Thumbling,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Serial Cleaner,Windows 7 32-bit,Windows 7 64-bit,DirectX 9,2 GB,32.5,2 GB,65.0,2.0,3.2,33.5,32.5,768.0,864.0,10.05,15.5,21.0,81.8
+The Secret Files 3,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,32.5,2 GB,155.0,1.0,2.4,90.0,32.5,256.0,387.5,9.55,1.0,1.0,6.2
+Civilization V - Wonders of the Ancient World,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,8 GB,35.0,8 GB,65.0,2.0,2.215,65.0,35.0,256.0,600.0,9.5,1.5,3.0,27.2
+Twin Peaks VR,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,10 GB,36.5,10 GB,27.0,6.0,3.55,18.0,36.5,4096.0,1751.5,12.0,53.5,152.5,224.2
+Rogue Legacy,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,0.0,0MB,180.0,1.0,1.83,155.0,0.0,640.0,849.0,10.5,4.5,5.5,32.800000000000004
+Weapon of Choice,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,10 GB,32.5,10 GB,65.0,2.0,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+X-Plane 11,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,20 GB,0.0,20 GB,32.0,3.0,3.8,23.0,0.0,512.0,649.0,11.0,2.5,4.5,10.4
+Battlefield 4: Final Stand,Windows Vista 32-bit,Windows 7 64-bit,DirectX 11,30 GB,65.0,30 GB,65.0,2.0,2.8,45.0,65.0,512.0,1013.0,10.05,11.0,23.0,64.85
+Devil Daggers,Windows 7 32-bit,Windows 7 32-bit,,0MB,72.5,0,77.5,2.0,2.5,65.0,72.5,320.0,550.0,9.5,1.0,2.5,6.8
+Top Gun: Hard Lock,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,8 GB,30.0,8 GB,55.0,2.0,2.68,55.0,30.0,640.0,849.0,10.5,4.5,5.5,32.800000000000004
+Dawn of War II - The Last Stand,Windows XP 32-bit,Windows Vista 32-bit,DirectX 10,1 GB,66.5,1 GB,110.0,1.0,2.08,65.0,66.5,320.0,437.5,9.0,0.0,0.0,14.0
+Angry Arrows,Windows Vista 32-bit,Windows 7 32-bit,DirectX 10,2 GB,32.5,2 GB,65.0,2.0,3.2,33.5,32.5,1024.0,800.0,10.6,5.5,16.0,18.4
+Sims 3,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,7.5 GB,66.5,7.5 GB,155.0,1.0,2.05,65.0,66.5,192.0,137.5,9.0,0.0,0.0,4.4
+Rawbots,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,3 GB,37.0,3 GB,65.0,2.0,3.23,45.0,37.0,128.0,255.0,10.05,4.0,14.0,8.15
+Virtua Tennis 4,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,5 GB,66.5,5 GB,65.0,2.0,2.25,65.0,66.5,256.0,650.0,9.0,0.0,0.0,41.6
+The Crew 2,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,55 GB,36.5,55 GB,32.0,5.0,3.35,18.0,36.5,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+Receiver 2,Windows 7 64-bit,Windows 10 64-bit,DirectX 10,4 GB,70.0,4 GB,38.5,3.0,2.85,38.5,70.0,2048.0,1275.0,11.15,22.5,49.0,120.0
+Might and Magic: Dark Messiah,Windows XP 32-bit,0,DirectX 9,7 GB,0.0,0,180.0,1.0,2.5835,110.0,0.0,320.0,550.0,9.5,1.0,2.5,6.8
+Unmechanical,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,32.5,1 GB,155.0,1.0,2.8,110.0,32.5,256.0,200.0,10.1,2.0,2.0,3.2
+Boris and the Dark Survival,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,0MB,36.5,0MB,32.0,5.0,3.15,32.0,36.5,2560.0,1626.0,11.6,33.5,133.5,256.15
+Endless Legend: Shadows,Windows Vista 64-bit,Windows 7 64-bit,DirectX 9,4 GB,36.5,4 GB,55.0,3.5,3.5,32.0,36.5,1024.0,950.0,11.5,23.5,37.5,121.6
+Total War: Rome 2 Nomadic Tribes Culture Pack,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,35 GB,66.0,35 GB,65.0,2.0,2.95,38.5,66.0,384.0,750.0,10.05,3.0,7.0,17.6
+Doctor Who: The Runaway,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,2 GB,36.5,2 GB,27.0,6.0,3.65,27.0,36.5,4096.0,1501.5,11.6,63.5,137.5,272.2
+Prius Anima Online,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,10 GB,32.5,10 GB,65.0,2.0,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+The Marching Dead,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Watch Dogs 2: No Compromise,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,50 GB,64.0,50 GB,32.0,5.0,3.1500000000000004,27.0,64.0,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+Wing Commander Saga: The Darkest Dawn,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,6 GB,0.0,6 GB,155.0,1.0,2.53,110.0,0.0,192.0,300.0,8.5,1.0,1.0,4.800000000000001
+Combat Force,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,16 GB,0.0,16 GB,32.0,5.0,3.2,13.0,0.0,1024.0,950.0,11.5,23.5,37.5,121.6
+The Elder Scrolls Online,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,85 GB,36.5,85 GB,32.0,3.0,3.5,32.0,36.5,1024.0,1001.0,11.0,25.0,40.5,128.15
+Metal Gear Solid V: The Phantom Pain,Windows 7 64-bit,Windows 8 64-bit,DirectX 11,28 GB,36.5,28 GB,27.0,6.0,4.15,11.0,36.5,2048.0,1125.0,11.05,20.0,43.0,104.0
+Train Sim World: CSX Heavy Haul,Windows 7 64-bit,Windows 10 64-bit,DirectX 10,20 GB,36.5,0,27.0,5.0,3.5,18.0,36.5,2048.0,1375.0,11.2,23.5,58.5,132.8
+Astra Exodus,Windows 8 64-bit,Windows 10 64-bit,DirectX 9,4 GB,36.5,4 GB,45.0,4.0,3.5,18.0,36.5,768.0,946.5,11.05,16.0,31.5,89.4
+Homefront: The Revolution - Beyond the Walls,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,38 GB,36.5,38 GB,27.0,4.0,3.4,32.0,36.5,1536.0,1313.5,11.5,22.0,57.5,116.15
+The Bug Butcher,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,10 GB,32.5,10 GB,65.0,2.0,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+Ether One,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,3 GB,37.0,3 GB,65.0,2.0,3.23,45.0,37.0,512.0,395.0,10.1,2.0,6.5,12.65
+Omerta: City of Gangsters - The Japanese Incentive,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,5 GB,35.0,5 GB,77.5,2.0,2.165,65.0,35.0,320.0,750.0,10.0,5.0,16.0,30.4
+Pro Evolution Soccer 2008,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,4 GB,0.0,4 GB,180.0,1.0,2.5,90.0,0.0,96.0,375.0,7.55,0.0,0.0,6.0
+Moebius The Game,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,0,66.5,0,155.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Gensou Skydrift,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,3 GB,87.5,3 GB,55.0,4.0,3.1,27.0,87.5,512.0,1083.5,10.55,9.5,33.5,52.25
+Kingdom Come: Deliverance,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,40 GB,52.5,40 GB,38.5,4.0,3.7,27.0,52.5,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+Neverwinter Nights: Enhanced Edition,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,10 GB,32.5,10 GB,65.0,2.0,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+WTCC 2010,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,4 GB,0.0,5 GB,130.0,1.0,2.5835,110.0,0.0,256.0,325.0,9.0,0.0,0.0,5.2
+Formula Truck 2013,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Moonbase Commander,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,66.5,1 GB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Global Ops: Commando Libya,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,6 GB,37.0,6 GB,65.0,2.0,3.23,45.0,37.0,128.0,255.0,10.05,4.0,14.0,8.15
+Wonkey Wizard,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Earth Defense Force: Iron Rain,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,24 GB,36.5,24 GB,23.0,5.0,3.45,18.0,36.5,1536.0,1425.0,11.15,16.5,49.5,91.2
+Saints Row 3: Funtime!,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,10 GB,71.0,10 GB,65.0,2.0,2.65,55.0,71.0,320.0,815.0,10.05,9.0,18.5,45.75
+Aircar,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,1.2 GB,0.0,1.2 GB,27.0,6.0,3.8,23.0,0.0,4096.0,1501.5,11.6,63.5,137.5,272.2
+Anno 1800,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,60 GB,36.5,60 GB,27.0,5.0,3.5,18.0,36.5,2048.0,1438.5,11.55,30.0,106.5,184.15
+The Alto Collection,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,0MB,32.5,0MB,65.0,2.0,3.2,33.5,32.5,768.0,950.0,10.5,17.5,35.5,92.8
+Project Amalthea: Battlegrounds,Windows XP 32-bit,Windows 10 64-bit,DirectX 9,0MB,70.0,0MB,55.0,2.0,2.85,38.5,70.0,256.0,600.0,10.0,2.0,3.0,8.0
+DARQ,Windows 7 64-bit,Windows 10 64-bit,DirectX 10,3 GB,36.5,3 GB,38.5,3.0,3.7,32.0,36.5,704.0,949.5,10.05,14.0,33.5,113.55
+Dead Space 4,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,10 GB,36.5,10 GB,77.5,2.0,2.465,55.0,36.5,384.0,445.0,9.0,0.0,0.0,22.25
+Mega Man 11,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,15 GB,69.5,15 GB,33.5,2.5,2.9,38.5,69.5,2048.0,1012.5,12.0,11.5,24.5,50.4
+Parkasaurus,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,3 GB,70.0,3 GB,55.0,3.0,2.85,38.5,70.0,768.0,900.0,11.05,5.5,13.0,21.6
+Space Ship Alvue,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Rainbow Six: Siege,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,50 GB,67.0,50 GB,38.5,3.0,3.2,32.0,67.0,1024.0,1050.0,11.5,18.0,36.0,96.0
+Battle for Graxia,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,3 GB,66.5,3 GB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Story Of Seasons: Friends Of Mineral Town,Windows 8 64-bit,Windows 10 64-bit,DirectX 11,2 GB,36.5,2 GB,32.0,5.0,3.15,32.0,36.5,1024.0,979.0,11.5,8.5,26.5,31.3
+Avorion,Windows 7 64-bit,Windows 7 64-bit,,0MB,71.0,1 GB,65.0,2.0,2.58,45.0,71.0,768.0,1225.0,11.05,15.5,34.0,78.4
+Overcooked! All You Can Eat,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,8 GB,69.5,8 GB,55.0,3.5,2.9,38.5,69.5,1024.0,1026.0,11.0,12.0,25.0,65.65
+Goat of Duty,Windows 7 64-bit,Windows 10 64-bit,,5 GB,70.0,5 GB,38.5,2.5,3.23,36.5,70.0,1792.0,1201.0,12.0,34.0,55.5,185.8
+Radical Heights,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,6 GB,0.0,6 GB,32.0,5.0,3.35,14.0,0.0,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+Sins of a Solar Empire: Entrenchment,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,72.5,0MB,180.0,1.0,2.35,65.0,72.5,192.0,337.5,9.0,0.0,0.0,5.4
+"Warhammer 40,000: Shootas, Blood & Teef",Windows 8 64-bit,Windows 8 64-bit,DirectX 11,3 GB,72.0,3 GB,32.0,3.0,2.85,32.0,72.0,640.0,850.0,10.55,2.5,8.0,20.8
+Banished,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,70.5,0MB,77.5,1.0,3.065,38.5,70.5,320.0,550.0,9.5,1.0,2.5,6.8
+UnderRail,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,66.5,2 GB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Sims 3: Pets,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,3.5 GB,66.5,3.5 GB,155.0,1.0,2.05,65.0,66.5,192.0,137.5,9.0,0.0,0.0,4.4
+Golf With Your Friends,Windows Vista 64-bit,Windows 7 64-bit,DirectX 9,4 GB,32.5,4 GB,77.5,1.5,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+Initia: Elemental Arena,Windows 7 64-bit,Windows 10 64-bit,DirectX 9,7 GB,52.5,20 GB,45.0,4.0,3.7,27.0,52.5,1280.0,962.0,11.0,28.5,47.0,152.7
+Total War SHOGUN 2: The Hattori Clan Pack,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,0MB,37.0,0MB,130.0,1.0,3.165,45.0,37.0,256.0,325.0,9.5,2.0,2.0,8.4
+Shiny The Firefly,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Lego Harry Potter: Years 5-7,Windows XP 32-bit,0,DirectX 9,9 GB,66.5,9 GB,65.0,2.0,2.75,45.0,66.5,384.0,450.0,9.55,5.5,12.5,22.4
+Kingdoms of Amalur: Reckoning,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,10.5 GB,71.0,10.5 GB,65.0,2.0,2.5,55.0,71.0,192.0,400.0,10.05,3.5,13.0,19.2
+Giraffe and Annika,Windows 10 64-bit,Windows 10 64-bit,DirectX 10,4 GB,50.0,4 GB,23.0,5.0,3.25,14.0,50.0,2048.0,1425.0,11.6,17.0,46.5,91.2
+Crysis 3,Windows Vista 32-bit,Windows 7 64-bit,DirectX 11,20 GB,68.0,20 GB,45.0,2.0,2.6,38.5,68.0,768.0,850.0,11.0,3.0,5.5,20.0
+Endless Dungeon,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,40 GB,36.5,40 GB,38.5,3.0,3.75,27.0,36.5,2048.0,1487.5,11.6,17.5,53.5,95.2
+Spectro,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,1 GB,33.0,1 GB,55.0,2.0,2.95,27.0,33.0,4096.0,1751.5,12.0,53.5,152.5,224.2
+System Shock Remake,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,2 GB,52.5,2 GB,32.0,6.0,3.7,27.0,52.5,2048.0,1351.0,11.1,31.5,95.0,172.95
+"Warhammer 40,000: Sanctus Reach",Windows 7 32-bit,Windows 7 64-bit,DirectX 9,2 GB,32.5,2 GB,77.5,1.5,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+Pirates Outlaws,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,2 GB,52.5,2 GB,27.0,6.0,3.5,18.0,52.5,768.0,900.0,11.0,4.0,14.5,57.6
+ArmA II,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,10 GB,68.0,10 GB,77.5,2.0,2.95,55.0,68.0,256.0,650.0,9.0,0.0,0.0,41.6
+6180 the moon,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Sonic Adventure 2,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,3 GB,72.5,6 GB,110.0,1.0,2.5,65.0,72.5,384.0,850.0,10.05,6.5,20.0,41.6
+Mafia 2,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,8 GB,35.5,10 GB,77.5,2.0,2.4,77.5,35.5,256.0,600.0,10.0,3.0,7.0,19.2
+Mauv,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+The Legend of Heroes: Trails of Cold Steel III,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,25 GB,35.5,25 GB,38.5,3.0,3.1,23.0,35.5,1024.0,1237.5,11.1,15.5,49.5,79.2
+Men of War: Assault Squad 2 - Cold War,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,15 GB,36.5,15 GB,32.0,5.0,3.5,23.0,36.5,1024.0,1751.0,12.05,33.0,62.5,56.05
+Cricket Captain 2018,Windows 7 32-bit,Windows 7 64-bit,DirectX 10,2 GB,39.0,2 GB,65.0,2.0,2.45,65.0,39.0,768.0,649.0,11.0,2.5,4.5,10.4
+Wasteland Remastered,Windows 8 64-bit,Windows 10 64-bit,DirectX 11,4 GB,68.5,4 GB,38.5,3.0,2.85,43.5,68.5,640.0,650.0,11.0,3.0,5.5,10.4
+Rogue Trooper Redux,Windows Vista 32-bit,Windows 7 64-bit,DirectX 11,18 GB,35.5,18 GB,90.0,2.0,2.98,45.0,35.5,512.0,963.0,10.55,7.5,12.5,61.65
+Shadow Warrior 2013,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,8 GB,37.0,8 GB,65.0,2.0,3.23,45.0,37.0,768.0,950.0,11.5,13.0,23.5,89.6
+Lumote,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,2 GB,36.5,2 GB,27.0,6.0,3.25,27.0,36.5,2560.0,1626.0,11.6,33.5,133.5,256.15
+Warhammer 40000: Space Wolf,Windows 7 32-bit,Windows 7 64-bit,DirectX 11,3 GB,66.5,10 GB,65.0,2.0,2.45,65.0,66.5,768.0,450.0,10.6,3.0,6.5,7.2
+Tetris Effect: Connected,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,5 GB,36.5,5 GB,18.0,3.0,3.4,18.0,36.5,2048.0,1375.0,11.2,23.5,51.0,132.8
+Lightrise,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Resident Evil 5,Windows XP 32-bit,Windows Vista 32-bit,DirectX 9,8 GB,35.5,8 GB,90.0,1.5,2.85,55.0,35.5,256.0,250.0,9.5,3.0,3.0,16.0
+S.T.A.L.K.E.R.: Clear Sky,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,10 GB,66.5,10 GB,130.0,1.0,2.165,77.5,66.5,192.0,325.0,9.0,0.0,0.0,5.2
+BulletRage,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,2 GB,36.5,2 GB,27.0,3.0,3.3,27.0,36.5,1536.0,1008.0,11.05,10.0,24.0,50.25
+Avowed,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,40 GB,36.5,40 GB,38.5,3.0,3.75,27.0,36.5,2048.0,1487.5,11.6,17.5,53.5,95.2
+Tiger Knight: Empire War,Windows 7 32-bit,Windows 7 64-bit,DirectX 9,10 GB,32.5,10 GB,65.0,2.0,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+Spellbreak,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,20 GB,36.5,20 GB,48.5,3.0,3.15,32.0,36.5,2048.0,895.5,11.1,10.0,22.5,28.65
+GoNNER,Windows Vista 32-bit,Windows Vista 32-bit,DirectX 9,1 GB,35.0,0,65.0,2.0,2.265,65.0,35.0,384.0,637.5,9.0,0.0,0.0,40.8
+Micro Machines World Series,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,5 GB,36.5,5 GB,33.5,2.5,3.5,27.0,36.5,1024.0,900.0,11.0,4.0,13.0,28.8
+Hidden Folks,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0,66.5,0,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Fate of the World Migration DLC,Windows XP 32-bit,0,DirectX 9,0MB,35.0,0MB,180.0,1.0,2.2,97.5,35.0,320.0,550.0,9.5,1.0,2.5,6.8
+Lady Hammerlock the Baroness,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Call of Duty - Black Ops 2: Apocalypse,Windows 7 32-bit,Windows 7 64-bit,DirectX 11,10 GB,36.0,10 GB,65.0,2.0,2.83,45.0,36.0,768.0,800.0,10.05,7.5,17.5,40.0
+Silent Hill: Homecoming,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,10 GB,73.0,10 GB,77.5,2.0,2.615,55.0,73.0,256.0,600.0,9.5,1.0,2.5,19.2
+The Marvellous Miss Take,Windows 7 32-bit,Windows 7 64-bit,DirectX 9,0MB,65.5,0MB,55.0,2.5,3.05,38.5,65.5,256.0,450.0,10.0,1.5,2.5,11.2
+Batman: A Telltale Game Series - Episode 4: Guardian of Gotham,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,5 GB,36.5,5 GB,65.0,2.0,3.3,32.0,36.5,768.0,725.0,10.55,12.0,20.5,59.2
+Rescue HQ - The Tycoon,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,0MB,65.5,0MB,32.0,3.0,3.3,38.5,65.5,2048.0,1375.0,11.2,23.5,51.0,132.8
+Street Fighter 30th Anniversary Collection,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,15 GB,69.5,15 GB,33.5,2.5,2.9,38.5,69.5,1536.0,1075.0,11.15,6.0,14.5,34.4
+Arma II: Operation Arrowhead,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,7 GB,68.0,7 GB,77.5,2.0,2.95,55.0,68.0,256.0,650.0,9.0,0.0,0.0,41.6
+Sakuna: Of Rice and Ruin,Windows 8 64-bit,Windows 10 64-bit,DirectX 11,7 GB,50.0,7 GB,14.0,4.0,3.45,14.0,50.0,2048.0,1275.0,11.15,22.5,49.0,120.0
+Penarium,Windows Vista 32-bit,Windows 7 32-bit,,0MB,71.0,0MB,77.5,2.0,3.4000000000000004,27.0,71.0,512.0,850.0,10.05,5.5,11.0,35.2
+Attack on Titan - Episode 3,Windows 7 32-bit,Windows 10 64-bit,DirectX 11,25 GB,36.5,25 GB,38.5,5.0,3.7,32.0,36.5,1024.0,1051.0,11.0,13.5,29.5,67.25
+Coffin Dodgers,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,1.5 GB,69.5,1.5 GB,55.0,2.0,2.65,32.0,69.5,1280.0,947.5,10.55,11.5,25.0,60.650000000000006
+Poker Night 2,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,2 GB,66.5,2 GB,155.0,1.0,2.1,77.5,66.5,768.0,649.0,11.0,2.5,4.5,10.4
+Beat Me!,Windows 7 64-bit,Windows 10 64-bit,DirectX 10,4 GB,70.5,4 GB,55.0,2.0,2.4,55.0,70.5,1024.0,1013.5,11.05,13.0,25.5,64.85
+RWR:Z,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Ad Infinitum,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,40 GB,36.5,40 GB,38.5,3.0,3.75,27.0,36.5,2048.0,1487.5,11.6,17.5,53.5,95.2
+Remnant: From the Ashes - Swamps of Corsus,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,40 GB,33.5,40 GB,27.0,6.0,3.2,23.0,33.5,2048.0,1451.0,11.55,28.0,72.5,161.7
+Dragon Age 3: Inquisition - Jaws of Hakkon,Windows 7 64-bit,Windows 7 64-bit,DirectX 10,26 GB,68.5,26 GB,55.0,4.0,3.15,27.0,68.5,512.0,900.0,10.05,11.0,32.0,86.4
+Delver,Windows Vista 32-bit,Windows Vista 32-bit,DirectX 9,0MB,36.0,0MB,90.0,1.0,1.75,65.0,36.0,64.0,215.0,8.05,0.0,0.0,3.45
+Heal Hitler,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,2 GB,69.5,2 GB,33.5,2.5,2.9,38.5,69.5,2048.0,1012.5,12.0,11.5,24.5,50.4
+Windforge,Windows 7 32-bit,Windows 7 64-bit,,2 GB,72.0,2 GB,65.0,2.0,3.115,45.0,72.0,128.0,721.5,10.5,4.0,14.0,23.1
+Olvand,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,36.0,1 GB,180.0,1.0,1.85,65.0,36.0,320.0,550.0,9.5,1.0,2.5,6.8
+PlayerUnknowns Battlegrounds,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,30 GB,0.0,30 GB,27.0,5.0,3.35,14.0,0.0,2048.0,1576.5,12.05,34.5,68.5,145.7
+Dark Souls 3,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,25 GB,52.5,25 GB,32.0,4.0,3.7,27.0,52.5,2560.0,1300.0,11.15,21.5,66.5,163.2
+Reaper: Tale Of A Pale Swordsman,Windows 7 32-bit,Windows 7 32-bit,DirectX 9,1 GB,36.0,2 GB,65.0,2.0,3.015,38.5,36.0,384.0,650.0,10.0,4.5,5.5,22.4
+Nights into Dreams....,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,4 GB,72.5,4 GB,130.0,1.0,2.3,77.5,72.5,256.0,600.0,10.05,3.5,5.0,19.200000000000003
+Otems Defiance,Windows 7 32-bit,Windows 10 64-bit,DirectX 10,4 GB,36.5,5 GB,38.5,3.0,4.15,11.0,36.5,512.0,850.0,11.0,4.0,8.0,20.0
+Rayman Legends,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,6 GB,66.5,6 GB,90.0,1.0,2.0,77.5,66.5,256.0,750.0,9.0,3.0,3.0,48.0
+Wrestling MPire 2008: Career Edition,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,66.5,2 GB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Sniper: Ghost Warrior 3,Windows Vista 64-bit,Windows 7 64-bit,DirectX 11,50 GB,67.0,50 GB,38.5,2.5,2.95,32.0,67.0,2048.0,1351.0,11.1,32.5,89.5,172.95
+Saints Row: Gat Out Of Hell,Windows Vista 32-bit,Windows 7 64-bit,DirectX 10,10 GB,67.5,10 GB,45.0,2.0,2.5,38.5,67.5,960.0,999.5,10.5,14.5,41.0,119.95
+Dog Duty,Windows 7 32-bit,Windows 10 64-bit,DirectX 11,0MB,36.5,0MB,38.5,3.0,3.45,23.0,36.5,2560.0,1626.0,11.6,33.5,133.5,256.15
+Ghost Whisperer: A Brush With Death,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0,36.0,0,180.0,1.0,1.85,65.0,36.0,320.0,550.0,9.5,1.0,2.5,6.8
+Ultimate Marvel vs Capcom 3,Windows 7 32-bit,Windows 7 64-bit,DirectX 9,16 GB,35.5,16 GB,55.0,2.5,2.93,48.5,35.5,960.0,1024.5,10.5,14.5,37.5,123.15
+Bad North: Jotunn Edition,Windows 7 32-bit,Windows 7 64-bit,DirectX 11,0MB,35.0,0MB,30.0,3.0,2.45,33.5,35.0,1024.0,975.0,11.5,17.5,36.0,124.8
+Silent Hill 2021,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,40 GB,36.5,40 GB,38.5,3.0,3.75,27.0,36.5,7168.0,2001.0,12.05,62.5,165.0,224.1
+The Endless Mission,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,15 GB,36.5,15 GB,32.0,5.0,3.35,18.0,36.5,2560.0,1376.0,11.1,27.5,93.5,192.1
+Vast,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+The Council - Episode 5: Checkmate,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,15 GB,52.5,15 GB,32.0,5.0,3.75,27.0,52.5,1536.0,1375.0,11.6,17.0,42.5,88.0
+Final Fantasy XIV: Endwalker,Windows 8 64-bit,Windows 8 64-bit,DirectX 11,80 GB,36.5,80 GB,38.5,4.0,3.75,32.0,36.5,1536.0,1437.5,11.6,17.5,48.5,92.0
+YesterMorrow,Windows 7 32-bit,Windows 10 64-bit,DirectX 9,2 GB,70.5,2 GB,55.0,2.0,2.4,55.0,70.5,768.0,899.0,11.05,3.0,6.0,21.6
+Besiege,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,1 GB,32.5,10 GB,65.0,2.0,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+DMC: Devil May Cry,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,9 GB,71.0,9 GB,65.0,2.0,2.5,55.0,71.0,288.0,811.0,10.05,10.5,11.5,58.25
+Risk: Global Domination,Windows Vista 32-bit,Windows 10 64-bit,DirectX 10,0MB,30.5,0MB,55.0,2.0,2.8,55.0,30.5,256.0,583.5,10.05,2.5,4.0,12.65
+Tropico 5 - Generalissimo,Windows Vista 32-bit,Windows 7 64-bit,DirectX 11,4 GB,71.0,4 GB,65.0,2.0,2.35,38.5,71.0,1024.0,850.0,11.05,1.5,1.5,27.200000000000003
+The Dark Pictures: The Devil in Me,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,65 GB,0.0,65 GB,27.0,6.0,3.0,14.0,0.0,2048.0,1564.0,12.05,34.5,92.0,144.1
+Stupid Llama,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0,66.5,0,180.0,1.0,1.98,65.0,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Fantasy General II,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,2.2 GB,34.5,2.2 GB,38.5,2.0,3.0,32.0,34.5,1024.0,1751.0,12.05,33.0,62.5,56.05
+World of Warcraft: Shadowlands,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,100 GB,0.0,100 GB,27.0,6.0,3.85,13.0,0.0,2048.0,1626.0,11.55,26.5,90.5,152.15
+Black Survival: Eternal Return,Windows 7 64-bit,Windows 10 64-bit,DirectX 9,5 GB,36.5,5 GB,55.0,2.0,3.7,32.0,36.5,512.0,900.0,10.05,9.5,26.0,57.6
+Life is Strange Remastered,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,14 GB,33.5,14 GB,38.5,3.0,3.6,27.0,33.5,2048.0,1187.5,11.1,16.5,37.0,76.0
+Blackmoor Bay,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+BoneCraft - Somewhere In Some Galaxy,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,3 GB,66.5,3 GB,77.5,2.0,1.85,65.0,66.5,384.0,750.0,9.0,0.0,0.0,24.0
+The Cycle: Frontier,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,37 GB,50.0,37 GB,18.0,4.0,3.4,14.0,50.0,2048.0,1451.0,11.15,31.5,86.5,185.75
+Forza Horizon 3,Windows 10 64-bit,Windows 10 64-bit,DirectX 12,55 GB,33.5,55 GB,27.0,6.0,4.15,16.0,33.5,2048.0,1376.0,11.55,24.5,77.5,136.15
+Dragon Marked For Death,Windows 7 32-bit,Windows 10 64-bit,DirectX 9,1 GB,30.5,1 GB,180.0,1.0,2.8,55.0,30.5,384.0,865.0,10.05,9.5,21.0,48.150000000000006
+Steep,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,25 GB,52.5,25 GB,32.0,5.0,3.75,27.0,52.5,2048.0,1376.0,11.55,20.5,69.5,112.1
+Barbarian Brawl,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Madden NFL 22,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,50 GB,64.0,50 GB,21.0,3.0,3.45,27.0,64.0,1024.0,1626.0,11.55,25.0,88.5,96.15
+Rise of the Tomb Raider,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,25 GB,52.5,25 GB,32.0,3.0,3.55,18.0,52.5,2048.0,1187.5,11.1,16.5,37.0,76.0
+Dead by Daylight - The Bloodstained Sack,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,15 GB,36.5,0,27.0,5.0,3.15,27.0,36.5,1024.0,950.0,11.5,23.5,37.5,121.6
+Swords n Magic and Stuff,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,2 GB,36.5,4 GB,38.5,3.0,3.45,23.0,36.5,1664.0,1075.0,11.05,28.5,49.5,152.8
+Re:Turn - One Way Trip,Windows XP 64-bit,Windows 10 64-bit,DirectX 7,2 GB,70.0,2 GB,55.0,2.0,2.85,38.5,70.0,256.0,600.0,10.0,2.0,3.0,8.0
+Grave Prosperity: Redux,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Eador: Masters Of The Broken World,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,2 GB,30.5,2 GB,155.0,1.0,1.9835,97.5,30.5,192.0,266.5,8.55,0.0,0.0,4.25
+1666 Amsterdam,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,50 GB,52.5,50 GB,32.0,5.0,3.7,27.0,52.5,2048.0,1451.0,11.15,27.5,78.5,161.7
+Ridge Racer Unbounded,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,3 GB,0.0,3 GB,77.5,2.0,2.565,55.0,0.0,512.0,1013.0,10.05,11.0,23.0,64.85
+Faster Than Light,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,35.5,0MB,155.0,1.0,2.2,77.5,35.5,256.0,250.0,10.0,2.5,4.0,4.0
+Doom Eternal,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,50 GB,0.0,50 GB,23.0,4.0,3.5,14.0,0.0,3584.0,1501.0,11.6,37.5,85.5,176.05
+Borderlands 2,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,13 GB,0.0,20 GB,77.5,2.0,2.565,55.0,0.0,256.0,550.0,10.0,2.5,5.0,17.6
+Brick-Force,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,35.0,2 GB,180.0,1.0,2.6,110.0,35.0,384.0,350.0,9.5,1.0,2.5,5.6
+Call of Duty - Black Ops: Escalation,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1.5 GB,35.0,1.5 GB,65.0,2.0,3.115,45.0,35.0,384.0,550.0,10.05,4.5,14.0,17.6
+International Cue Club,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0,36.0,0,180.0,1.0,1.85,65.0,36.0,320.0,550.0,9.5,1.0,2.5,6.8
+Lego Jurassic World,Windows XP 32-bit,Windows 7 64-bit,DirectX 10,10 GB,67.5,10 GB,77.5,2.0,3.08,45.0,67.5,384.0,545.0,9.0,0.0,0.0,28.5
+Rogue Heist,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,7 GB,0.0,7 GB,27.0,6.0,3.35,14.0,0.0,2048.0,1351.0,11.1,26.5,69.0,148.89999999999998
+Industry Manager Future Simulator,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,5 GB,69.5,5 GB,33.5,2.5,2.9,38.5,69.5,1536.0,1075.0,11.15,6.0,14.5,34.4
+Age Of Wushu,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,10 GB,66.5,10 GB,155.0,1.0,2.03,77.5,66.5,192.0,550.0,9.0,0.0,0.0,12.8
+Nix,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Thug III,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0,66.5,0,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Tormentum: Dark Sorrow,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Achtung Panzer: Operation Star - Sokolovo 1943,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,36.0,1 GB,155.0,1.0,2.6,90.0,36.0,128.0,372.5,9.0,0.0,0.0,9.75
+Children of the Nile: Alexandria,Windows 2000,Windows 7 32-bit,DirectX 9,1 GB,0.0,1 GB,180.0,1.0,1.9165,130.0,0.0,192.0,137.5,9.0,0.0,0.0,4.4
+Master Arena,Windows 7 64-bit,Windows 10 64-bit,DirectX 9,30 GB,36.5,30 GB,38.5,3.0,3.75,18.0,36.5,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+Trepidation,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Daylight,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,5 GB,31.0,5 GB,77.5,2.0,3.1500000000000004,55.0,31.0,768.0,850.0,11.0,3.0,5.5,13.6
+Galaxy in Turmoil,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,3 GB,36.5,3 GB,38.5,3.0,3.15,27.0,36.5,1536.0,1076.0,11.0,6.5,15.0,34.45
+Meet Your Maker,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,20 GB,36.5,20 GB,14.0,4.0,3.45,18.0,36.5,2048.0,1576.5,11.65,36.0,79.5,145.7
+Dynasty Warriors 9,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,50 GB,52.5,50 GB,32.0,5.0,3.45,18.0,52.5,2048.0,1451.0,11.55,28.0,72.5,161.7
+Deadly Premonition 2: A Blessing in Disguise,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,40 GB,36.5,40 GB,38.5,3.0,3.75,27.0,36.5,2048.0,1487.5,11.6,17.5,53.5,95.2
+Lucius 2 : The Prophecy,Windows XP 64-bit,Windows 7 64-bit,DirectX 9,5 GB,67.5,5 GB,65.0,2.0,3.08,45.0,67.5,960.0,1054.5,10.05,16.0,42.5,125.9
+Schar: Blue Shield,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Cold Fear,Windows 2000,Windows XP 32-bit,DirectX 9,3 GB,0.0,3 GB,180.0,1.0,2.0,130.0,0.0,64.0,390.0,8.1,0.0,0.0,6.25
+Craftlands Workshoppe,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,1 GB,70.0,1 GB,38.5,3.0,2.85,38.5,70.0,1024.0,1187.5,11.1,16.5,37.0,76.0
+Kingdom,Windows XP 32-bit,Windows 8 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Shogun 2: Total War - Fall of the Samurai,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,22 GB,67.5,32 GB,130.0,1.0,2.55,38.5,67.5,256.0,325.0,9.5,2.0,2.0,8.4
+Jalopy,Windows 7 32-bit,Windows 7 64-bit,DirectX 9,1 GB,69.5,1 GB,33.5,2.5,2.9,38.5,69.5,1536.0,1075.0,11.15,6.0,14.5,34.4
+Eron,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Borderlands 2: Mechromancer,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,2 GB,0.0,2 GB,77.5,2.0,2.565,55.0,0.0,256.0,550.0,10.0,2.5,5.0,17.6
+Starship EVO,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,4 GB,0.0,4 GB,23.0,6.0,3.7,14.0,0.0,1536.0,1325.0,11.2,25.5,59.5,129.6
+Dungeons and Dragons RPG,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,40 GB,36.5,40 GB,38.5,3.0,3.75,27.0,36.5,2048.0,1487.5,11.6,17.5,53.5,95.2
+State Of Decay 2,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,16 GB,36.5,16 GB,32.0,5.0,3.6,27.0,36.5,2048.0,1351.0,11.1,32.5,89.5,172.95
+Block Multiplayer: RPG,Windows Vista 64-bit,Windows 10 64-bit,DirectX 10,3 GB,36.5,3 GB,14.0,4.0,3.55,18.0,36.5,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+Angry Video Game Nerd Adventures,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,1.95,65.0,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Atomicrops,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,1 GB,35.0,1 GB,30.0,3.0,2.45,33.5,35.0,1024.0,1037.5,11.0,17.5,31.5,116.4
+Batman: Arkham Origins - Cold Cold Heart,Windows Vista 32-bit,Windows 7 64-bit,DirectX 10,15 GB,67.5,15 GB,65.0,2.0,3.03,45.0,67.5,640.0,915.5,10.55,18.5,28.0,90.6
+Farm Manager 2021,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,8 GB,36.5,8 GB,32.0,6.0,3.7,32.0,36.5,4096.0,1826.0,12.05,46.0,123.5,169.64999999999998
+Sleeping Dogs,Windows Vista 32-bit,Windows 7 64-bit,DirectX 10,15 GB,35.0,15 GB,65.0,2.0,2.215,65.0,35.0,768.0,900.5,11.0,14.5,25.0,76.85
+I Expect You To Die 2,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,10 GB,36.5,10 GB,18.0,4.0,3.4,18.0,36.5,7168.0,2001.0,12.05,61.5,159.5,224.1
+Penny Arcade - Precipice of Darkness episode three,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,32.5,0MB,180.0,1.0,2.8,110.0,32.5,128.0,200.0,10.0,2.0,3.0,3.2
+Six Oclock High,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Fatal Frame: Maiden of Black Water,Windows 8 64-bit,Windows 8 64-bit,DirectX 11,25 GB,36.5,25 GB,45.0,4.0,3.75,32.0,36.5,2048.0,1626.0,11.55,22.0,75.0,72.1
+UFO2 Extraterrestrials: Battle for Mercury,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0,66.5,0,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Crash Time: Autobahn Pursuit,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,3 GB,36.0,3 GB,180.0,1.0,1.85,65.0,36.0,320.0,550.0,9.5,1.0,2.5,6.8
+Bierzerkers,Windows 7 32-bit,Windows 7 64-bit,DirectX 9,6 GB,32.5,6 GB,77.5,2.0,3.2,33.5,32.5,1024.0,950.0,11.05,5.0,11.0,39.2
+ITTA,Windows 7 32-bit,Windows 10 64-bit,DirectX 10,0MB,70.5,0MB,55.0,2.0,2.53,45.0,70.5,512.0,1050.0,10.5,12.0,27.5,67.2
+Age of Empires II HD: Rise of the Rajas,Windows XP 32-bit,Windows Vista 32-bit,DirectX 9,2 GB,36.0,2 GB,180.0,1.0,1.75,65.0,36.0,256.0,262.5,9.0,0.0,0.0,6.4
+Star Wars: The Old Republic - Rise of the Hutt Cartel,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,36.5,1 GB,90.0,1.0,2.9665,38.5,36.5,256.0,200.0,10.55,1.5,2.0,3.2
+The Starving Tournament,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+XCOM: Enemy Unknown Slingshot,Windows Vista 32-bit,Windows 7 64-bit,DirectX 9,20 GB,61.0,20 GB,65.0,2.0,2.75,65.0,61.0,384.0,600.0,10.0,3.0,7.0,19.2
+Encased: A Sci-Fi Post-Apocalyptic RPG,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,6 GB,36.5,6 GB,27.0,6.0,3.45,18.0,36.5,1536.0,945.5,11.0,10.0,24.0,46.25
+NANOS,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Dakar 18,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,40 GB,36.5,40 GB,32.0,5.0,3.35,18.0,36.5,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+The Walking Dead: Episode 3 The Long Road Ahead,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,36.5,2 GB,155.0,1.0,2.5,65.0,36.5,256.0,600.0,10.55,2.0,2.5,16.0
+Hired Ops,Windows XP 64-bit,Windows 7 64-bit,DirectX 9,8 GB,67.0,8 GB,65.0,2.5,3.2,32.0,67.0,768.0,950.0,11.05,5.0,11.0,39.2
+VTOL VR,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,1 GB,0.0,1 GB,27.0,6.0,3.5,14.0,0.0,6144.0,1626.5,12.0,65.0,141.5,304.2
+Bear With Me - Episode Three,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1.2 GB,66.5,1.2 GB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Magician and Looters,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Cliffs of War: Fortress Defenders,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,0.0,0MB,155.0,1.0,2.565,155.0,0.0,256.0,450.0,10.0,2.0,4.5,14.4
+Madden NFL 23,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,50 GB,64.0,50 GB,21.0,3.0,3.35,27.0,64.0,1024.0,1626.0,11.55,22.0,75.0,72.1
+Resident Evil 7,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,50 GB,52.5,50 GB,27.0,5.0,4.05,11.0,52.5,2048.0,1376.0,11.55,24.5,77.5,136.15
+Ben and Ed,Windows 7 32-bit,Windows 7 64-bit,DirectX 10,5 GB,32.5,5 GB,48.5,4.0,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+Shaun the Sheep 2 : Home Sheep Home,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Beneath the Crimson Moon,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+A Story About My Uncle,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0,66.5,0,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Endless Sky,Windows XP 32-bit,Windows XP 32-bit,,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+The House of Da Vinci 2,Windows 7 64-bit,Windows 10 64-bit,DirectX 9,7 GB,34.5,7 GB,55.0,2.0,3.25,27.0,34.5,768.0,899.0,11.05,3.0,6.0,21.6
+Our Darker Purpose,Windows XP 32-bit,Windows XP 32-bit,DirectX 10,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,256.0,630.0,9.0,3.5,5.5,40.3
+Taur,Windows 7 64-bit,Windows 10 64-bit,DirectX 10,3 GB,67.0,3 GB,32.0,3.0,3.45,32.0,67.0,1280.0,826.0,10.55,12.0,23.5,76.85
+Guts and Glory,Windows 7 32-bit,Windows 7 64-bit,DirectX 9,3 GB,73.0,10 GB,97.5,1.5,3.2,38.5,73.0,2048.0,1008.0,11.1,10.0,22.5,50.25
+Demolish and Build Company 2017,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,15 GB,36.5,15 GB,38.5,2.5,3.3,32.0,36.5,1024.0,1025.5,11.0,27.5,47.5,131.25
+Samorost 3,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,66.5,1 GB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+The Darkness 2,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,8 GB,70.5,10 GB,77.5,2.0,2.35,65.0,70.5,1024.0,699.0,10.55,2.0,4.5,11.2
+Dragon Nest,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,3 GB,66.5,4 GB,155.0,1.0,1.85,65.0,66.5,192.0,175.0,9.5,1.0,1.0,2.8
+Erzurum,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,6 GB,36.5,6 GB,32.0,5.0,3.5,18.0,36.5,3584.0,1376.0,11.15,52.0,162.5,304.2
+AVICII Invector,Windows Vista 32-bit,Windows 10 64-bit,DirectX 11,2.5 GB,30.5,2.5 GB,135.0,1.0,2.8,55.0,30.5,1536.0,650.0,11.0,3.0,4.0,17.6
+Risen,Windows XP 32-bit,0,DirectX 9,2.5 GB,36.0,2.5 GB,110.0,1.0,1.8,77.5,36.0,256.0,400.0,10.5,3.5,4.5,9.6
+Sims 3: Hidden Springs,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,66.5,1 GB,155.0,1.0,2.05,65.0,66.5,192.0,137.5,9.0,0.0,0.0,4.4
+Duke Nukem 3D: 20th Anniversary World Tour,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,1.2 GB,67.0,1.2 GB,65.0,2.0,2.715,48.5,67.0,384.0,750.0,10.05,5.0,16.5,24.0
+QRTH-PHYL,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+theHunter: Call of the Wild,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,20 GB,36.5,20 GB,32.0,6.0,3.75,32.0,36.5,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+Chainsaw Warrior: Lords of the Night,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,64.0,237.5,9.55,1.5,1.5,7.6
+Doom 4,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,55 GB,52.5,55 GB,32.0,6.0,3.7,27.0,52.5,2048.0,1351.0,11.1,31.5,95.0,172.95
+The Waylanders,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,40 GB,0.0,40 GB,14.0,6.0,3.4,14.0,0.0,7168.0,2001.0,12.05,61.5,159.5,224.1
+HTC Vive,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,0,36.5,0,27.0,5.0,3.65,27.0,36.5,3584.0,1376.0,11.05,48.0,166.0,304.2
+Danganronpa: Trigger Happy Havoc,Windows 7 32-bit,Windows 7 64-bit,DirectX 9,5 GB,33.5,6 GB,45.0,2.5,3.25,27.0,33.5,1024.0,975.0,10.6,5.5,16.0,31.2
+Divinity 2: Flames Of Vengence,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,0.0,2 GB,65.0,2.0,2.85,67.5,0.0,256.0,840.0,9.0,0.0,0.0,42.55
+Garrys Mod VR,Windows Vista 64-bit,Windows 7 64-bit,DirectX 11,20 GB,36.5,20 GB,38.5,3.0,3.95,27.0,36.5,1536.0,1425.0,11.15,15.5,53.5,91.2
+Tom Clancy: Ghost Recon Online,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,5 GB,37.0,5 GB,77.5,1.0,2.765,55.0,37.0,512.0,650.0,10.5,3.5,6.5,14.4
+Babel Rising,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.0,0MB,90.0,2.0,2.4,77.5,66.0,256.0,550.0,9.5,1.5,3.0,17.6
+Combat Extreme 2.0,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Overwatch,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,5 GB,71.5,5 GB,38.5,2.5,2.93,38.5,71.5,768.0,946.5,11.05,16.0,31.5,89.4
+Deformers,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,2 GB,71.0,2 GB,65.0,2.0,2.25,48.5,71.0,320.0,800.0,10.0,7.0,16.5,44.8
+Highborn,Windows XP 32-bit,Windows Vista 64-bit,DirectX 9,3 GB,36.0,3 GB,130.0,1.0,3.2,45.0,36.0,320.0,651.5,9.5,6.0,6.0,60.6
+The Trench,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,8 GB,66.5,8 GB,155.0,1.0,2.05,65.0,66.5,384.0,750.0,9.5,1.5,3.0,36.8
+Final Upgrade,Windows 10 64-bit,0,DirectX 11,5 GB,33.5,5 GB,27.0,5.0,3.65,27.0,33.5,2560.0,1626.0,11.6,33.5,133.5,256.15
+Neverwinter Nights 2: Mask of the betrayer,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,5.5 GB,0.0,5.5 GB,155.0,1.0,2.5835,110.0,0.0,128.0,200.0,9.0,0.0,0.0,3.2
+Project CARS,Windows 7 64-bit,Windows 8 64-bit,DirectX 9,7 GB,34.5,7 GB,45.0,4.0,3.55,27.0,34.5,960.0,1099.5,10.5,15.0,35.5,94.35
+The Witcher III: Wild Hunt - Hearts of Stone,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,40 GB,52.5,40 GB,38.5,4.0,3.7,27.0,52.5,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+Northern Shadow,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,5 GB,37.0,5 GB,65.0,2.0,3.23,45.0,37.0,128.0,255.0,10.05,4.0,14.0,8.15
+Astroneer,Windows Vista 64-bit,Windows 7 64-bit,DirectX 11,20 GB,36.5,20 GB,38.5,3.0,3.95,27.0,36.5,1536.0,1425.0,11.15,15.5,53.5,91.2
+Age of Conan: Rise Of The Godslayer,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,3.5 GB,36.0,3.5 GB,77.5,2.0,2.865,45.0,36.0,256.0,840.0,9.5,2.0,4.5,42.55
+Silent Enemy,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,36.0,2 GB,180.0,1.0,1.85,65.0,36.0,320.0,550.0,9.5,1.0,2.5,6.8
+Xuan-Yuan Sword VII,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,50 GB,50.0,50 GB,27.0,6.0,3.55,14.0,50.0,1024.0,1751.5,12.05,28.5,71.0,56.1
+Rocksmith - The Offspring 3-Song Pack,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,1 GB,67.0,1 GB,77.5,2.0,2.88,65.0,67.0,256.0,700.0,10.0,3.5,7.5,22.4
+Freddys Back,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Battle Battalions,Windows Vista 32-bit,Windows 7 64-bit,DirectX 10,4 GB,67.0,4 GB,65.0,2.0,2.63,55.0,67.0,768.0,1113.0,10.05,12.0,29.5,71.25
+Democracy 3: Extremism,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Iron Blood VR,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,3 GB,50.0,4 GB,27.0,6.0,3.55,14.0,50.0,4096.0,1501.5,11.6,63.5,137.5,272.2
+This is the Zodiac Speaking,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,7 GB,70.0,7 GB,38.5,3.0,2.85,38.5,70.0,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+Police Force,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,5 GB,66.5,5 GB,130.0,1.0,2.0,77.5,66.5,256.0,375.0,9.0,0.0,0.0,10.0
+Murdered: Soul Suspect,Windows Vista 32-bit,Windows 7 64-bit,DirectX 9,20 GB,69.0,20 GB,45.0,2.0,2.73,38.5,69.0,768.0,1000.0,10.05,10.5,32.5,64.0
+House on the Hill,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,10 GB,36.0,10 GB,27.0,4.0,3.55,27.0,36.0,1664.0,1018.5,11.05,26.0,44.5,143.75
+Agents of Mayhem,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,20 GB,33.0,20 GB,27.0,3.0,2.75,27.0,33.0,2048.0,1487.5,11.6,17.5,53.5,95.2
+Doom VFR,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,17 GB,0.0,17 GB,27.0,6.0,3.8,14.0,0.0,6144.0,1876.0,12.05,74.5,192.0,240.15
+Galactic Ruler,Windows 8 64-bit,Windows 10 64-bit,DirectX 11,2 GB,30.5,2 GB,155.0,1.0,2.8,55.0,30.5,768.0,899.0,11.05,3.0,6.0,21.6
+Decay of Logos,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,3 GB,36.5,3 GB,27.0,6.0,3.4000000000000004,18.0,36.5,2048.0,1351.0,11.1,26.5,69.0,148.89999999999998
+Awesomenauts: Overdrive Expansion,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1.5 GB,66.5,1.5 GB,87.5,1.5,2.1,77.5,66.5,256.0,200.0,10.1,2.5,2.5,3.2
+Nickelodeon All-Star Brawl,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,15 GB,0.0,15 GB,27.0,5.0,3.35,14.0,0.0,2048.0,1576.5,12.05,34.5,68.5,145.7
+Valhall: Harbinger,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,20 GB,0.0,20 GB,14.0,4.0,3.75,14.0,0.0,4096.0,1751.5,12.0,53.5,152.5,224.2
+Rise of the Triad,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,5 GB,70.5,5 GB,65.0,2.0,2.4,65.0,70.5,512.0,1013.0,10.05,11.0,23.0,64.85
+Scarlet Nexus,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,50 GB,36.5,50 GB,27.0,6.0,3.55,17.0,36.5,2560.0,1438.5,11.1,31.5,108.5,228.15
+Assassins Creed: Valhalla - Wrath of the Druids,Windows 10 64-bit,Windows 10 64-bit,DirectX 12,50 GB,36.5,50 GB,18.0,4.0,3.4000000000000004,18.0,36.5,2048.0,1564.0,12.05,34.5,92.0,144.1
+Warp,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1.5 GB,66.5,1.5 GB,110.0,1.0,2.15,65.0,66.5,192.0,712.5,9.55,1.5,1.5,15.2
+Darksiders Warmastered Edition,Windows XP 64-bit,Windows 7 64-bit,DirectX 9,13 GB,0.0,13 GB,77.5,2.0,2.465,48.5,0.0,512.0,850.0,10.05,11.0,29.0,54.400000000000006
+Alien: Isolation,Windows 7 32-bit,Windows 7 64-bit,DirectX 11,35 GB,66.5,35 GB,45.0,2.5,3.1,45.0,66.5,1024.0,950.0,11.0,3.5,10.0,46.4
+Real Horror Stories,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Xenonauts,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,5 GB,66.5,5 GB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Johnny Horror,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Just Cause 5,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,60 GB,36.5,60 GB,32.0,5.0,3.3,18.0,36.5,2048.0,1451.0,11.15,31.5,86.5,185.75
+Fallout 4 - Contraptions Workshop,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,30 GB,36.5,30 GB,38.5,4.0,4.15,11.0,36.5,1536.0,1112.5,11.05,27.0,54.5,126.0
+Bliss Maze,Windows 7 32-bit,Windows 7 64-bit,DirectX 11,10 GB,32.5,10 GB,65.0,2.0,3.2,33.5,32.5,768.0,450.0,10.55,1.5,5.5,14.4
+London Faversham High Speed,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,6 GB,36.0,6 GB,55.0,2.0,3.165,45.0,36.0,768.0,750.0,10.5,6.5,9.5,35.2
+Mazi - Remastered,Windows 7 64-bit,Windows 10 64-bit,DirectX 12,2 GB,36.5,2 GB,27.0,3.0,3.45,18.0,36.5,1280.0,950.0,11.5,6.5,15.0,39.2
+SpellForce 2 - Faith in Destiny Scenario 3: The Last Stand,Windows XP 32-bit,Windows XP 64-bit,DirectX 9,5 GB,0.0,5 GB,180.0,1.0,2.265,130.0,0.0,128.0,311.0,8.55,0.0,0.0,4.1000000000000005
+Akibas Trip: Undead And Undressed,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,3 GB,69.5,3 GB,33.5,2.5,2.9,38.5,69.5,1024.0,1026.0,11.0,12.0,25.0,65.65
+Dauntless,Windows XP 32-bit,Windows 7 64-bit,DirectX 11,24 GB,65.0,24 GB,38.5,3.0,2.78,45.0,65.0,2048.0,1451.0,11.55,29.0,97.0,161.7
+Tony Hawks American Wasteland,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,3.5 GB,0.0,3.5 GB,90.0,1.0,1.75,130.0,0.0,256.0,366.5,9.5,1.0,1.0,5.85
+Crush Online,Windows XP 32-bit,Windows XP 32-bit,DirectX 10,1 GB,71.0,0,32.0,2.0,2.45,43.5,71.0,256.0,750.0,10.0,5.5,8.0,36.8
+KickBeat Steam Edition,Windows Vista 32-bit,Windows Vista 32-bit,DirectX 11,2 GB,66.5,2 GB,77.5,2.0,2.1,77.5,66.5,384.0,700.0,10.0,3.5,7.5,22.4
+Demolition Master 3D,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Space Mechanic Simulator,Windows XP 64-bit,Windows 10 64-bit,DirectX 11,10 GB,36.5,10 GB,23.0,5.0,3.25,27.0,36.5,2048.0,1451.0,11.15,27.5,78.5,161.7
+Tales of Aravorn: Seasons of The Wolf,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Retention,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Deadlight,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,5 GB,36.0,5 GB,155.0,1.0,1.95,65.0,36.0,256.0,250.0,10.5,1.5,3.5,2.0
+Mass Effect 3,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,15 GB,61.0,15 GB,65.0,2.0,2.75,65.0,61.0,512.0,395.0,10.55,1.0,2.5,6.3
+Piloteer,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0,66.5,0,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Ruzar - The Life Stone,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,1 GB,35.5,1 GB,65.0,2.0,2.93,38.5,35.5,1408.0,924.5,10.05,16.0,46.0,139.1
+Hearts of Iron III,Windows XP 32-bit,Windows Vista 32-bit,DirectX 9,2 GB,66.5,2 GB,110.0,1.0,1.93,77.5,66.5,256.0,750.0,9.0,3.0,3.0,48.0
+Rising Lords,Windows XP 64-bit,Windows 10 64-bit,DirectX 9,0MB,70.0,0MB,55.0,2.0,2.85,38.5,70.0,512.0,650.0,10.05,6.5,25.0,28.0
+Rugby 15,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,3 GB,33.5,3 GB,65.0,2.0,3.5,27.0,33.5,768.0,450.0,10.6,3.0,6.5,7.2
+Population: One,Windows 10 64-bit,Windows 10 64-bit,DirectX 9,5 GB,36.5,5 GB,18.0,4.0,3.55,18.0,36.5,4096.0,1751.5,12.0,53.5,152.5,224.2
+Spintires: MudRunner,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,15 GB,67.0,15 GB,38.5,3.0,2.95,38.5,67.0,1536.0,1187.5,11.6,6.5,15.0,56.0
+Future Wars,Windows 7 32-bit,0,DirectX 9,8 GB,0.0,8 GB,180.0,1.0,2.2885,130.0,0.0,64.0,358.0,7.55,0.0,0.0,5.050000000000001
+Forge Quest,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,66.5,1 GB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Duck Season,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,7 GB,0.0,7 GB,27.0,6.0,3.3,14.0,0.0,4096.0,1751.5,12.0,53.5,152.5,224.2
+Alliance of Valiant Arms,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,6 GB,32.5,2 GB,155.0,1.0,2.4,90.0,32.5,192.0,304.0,9.0,1.0,1.0,4.85
+Aliens vs Predator,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,10 GB,66.5,10 GB,130.0,1.0,2.315,65.0,66.5,384.0,450.0,9.0,0.0,0.0,14.4
+The Fantastic Fivesome,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Hyper Void,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Playground VR,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,1 GB,36.5,2 GB,27.0,6.0,3.65,27.0,36.5,4096.0,1751.5,12.0,53.5,152.5,224.2
+Haunt : The Real Slender Game,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,36.0,0MB,180.0,1.0,1.85,65.0,36.0,320.0,550.0,9.5,1.0,2.5,6.8
+Valgrave: Immortal Plains,Windows 7 32-bit,Windows 10 64-bit,DirectX 11,2 GB,70.0,2 GB,55.0,2.0,2.85,38.5,70.0,2048.0,1351.0,11.1,26.5,69.0,148.89999999999998
+Fifa Manager 12,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,8 GB,0.0,8 GB,130.0,1.0,2.2,130.0,0.0,128.0,372.5,9.0,0.0,0.0,9.75
+The Sims 4: Spa Day,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,1 GB,36.5,1 GB,65.0,2.0,3.5,32.0,36.5,256.0,262.5,9.0,0.0,0.0,4.2
+Shogun 2: Total War,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,20 GB,37.0,20 GB,130.0,1.0,3.165,45.0,37.0,256.0,325.0,9.5,2.0,2.0,8.4
+Wander,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,36.0,2 GB,180.0,1.0,1.85,65.0,36.0,320.0,550.0,9.5,1.0,2.5,6.8
+Donald Duck: Goin Quackers,Windows 98,Windows 98,DirectX 8,0MB,0.0,0MB,180.0,1.0,1.15,180.0,0.0,64.0,266.0,7.0,0.0,0.0,2.8
+Death Stranding 2,Windows 10 64-bit,Windows 10 64-bit,DirectX 12,80 GB,52.5,80 GB,18.0,4.0,3.3,18.0,52.5,4096.0,1876.0,12.05,46.5,126.0,176.05
+Zombie Army 4: Dead War,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,50 GB,52.5,50 GB,23.0,4.0,3.75,27.0,52.5,2048.0,1250.0,11.6,20.0,48.0,64.0
+Team Fortress 2: Holiday Pack,Windows XP 32-bit,Windows 7 32-bit,DirectX 8,5 GB,35.0,5 GB,135.0,1.0,2.8,130.0,35.0,192.0,300.0,9.0,0.0,0.0,4.800000000000001
+Pro Cycling Manager 2014,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,3 GB,72.0,3 GB,65.0,2.0,3.115,45.0,72.0,128.0,721.5,10.5,4.0,14.0,23.1
+Solar Ash Kingdom,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,15 GB,69.5,15 GB,33.5,2.5,2.9,38.5,69.5,2048.0,1012.5,12.0,11.5,24.5,50.4
+Guns and Robots,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,36.0,1 GB,180.0,1.0,1.85,65.0,36.0,320.0,550.0,9.5,1.0,2.5,6.8
+Signal Decay,Windows 7 32-bit,Windows 10 64-bit,DirectX 9,1 GB,30.5,1 GB,155.0,1.0,2.8,55.0,30.5,768.0,950.0,11.05,5.0,11.0,39.2
+Rival Stars Horse Racing: Desktop Edition,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,3 GB,36.5,3 GB,32.0,5.0,3.15,32.0,36.5,768.0,899.0,11.05,3.0,6.0,21.6
+The Missing Few,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,5 GB,0.0,5 GB,18.0,4.0,3.6,13.0,0.0,4096.0,1751.5,12.0,53.0,141.0,224.2
+Pirates of Black Cove: Origins,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,4 GB,0.0,2 GB,65.0,1.0,2.15,65.0,0.0,384.0,550.0,9.5,2.0,4.5,17.6
+F1 2012,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,13 GB,67.0,13 GB,65.0,2.0,3.05,48.5,67.0,1024.0,800.0,11.05,13.5,28.5,68.8
+Strider 2014,Windows Vista 32-bit,Windows 7 64-bit,DirectX 11,3.7 GB,71.0,4 GB,65.0,2.0,2.5,55.0,71.0,1536.0,950.0,11.5,10.0,20.5,46.4
+Truffle Saga,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,0MB,37.0,0MB,65.0,2.0,3.23,45.0,37.0,128.0,255.0,10.05,4.0,14.0,8.15
+Unturned,Windows XP 32-bit,Windows XP 32-bit,DirectX 8,1 GB,0.0,1 GB,180.0,1.0,2.4585,110.0,0.0,64.0,300.0,8.5,1.0,1.0,3.2
+Friday the 13th: Killer Puzzle - Episode 5: Last Resort,Windows 7 32-bit,Windows 10 64-bit,DirectX 9,0MB,30.5,0MB,155.0,1.0,2.7,55.0,30.5,384.0,600.0,10.0,2.0,3.0,9.6
+Karnage Chronicles,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,3 GB,0.0,3 GB,27.0,6.0,3.3,14.0,0.0,4096.0,1751.5,12.0,53.5,152.5,224.2
+Siege of Turtle Enclave,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+I Am Alive,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,8.5 GB,35.0,8.5 GB,77.5,2.0,2.215,65.0,35.0,768.0,750.0,10.5,6.5,9.5,28.8
+Paranoid,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,20 GB,0.0,20 GB,38.5,3.0,3.0,14.0,0.0,2560.0,1376.0,11.1,27.5,93.5,192.1
+Iris and the Giant,Windows 7 32-bit,Windows 10 64-bit,DirectX 10,0MB,70.0,0MB,55.0,2.0,2.85,38.5,70.0,512.0,850.0,11.1,3.0,6.5,20.0
+Stellaris: Federations,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,4 GB,34.5,4 GB,45.0,4.0,3.2,38.5,34.5,1024.0,1101.0,11.0,19.5,39.0,102.55
+Homesick,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,2 GB,32.5,2 GB,65.0,2.0,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+Skyborn,Windows XP 32-bit,0,DirectX 8,0MB,0.0,0MB,90.0,1.0,1.5,65.0,0.0,64.0,100.0,9.0,0.0,0.0,1.6
+Far Cry: Primal,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,20 GB,36.5,20 GB,38.5,3.0,3.7,32.0,36.5,1024.0,1050.0,11.5,18.0,36.0,96.0
+XMoto,Windows 2000,Windows XP 32-bit,DirectX 8,0MB,36.0,0MB,155.0,1.0,2.33,90.0,36.0,32.0,83.0,8.0,0.0,0.0,1.35
+American Truck Simulator - New Mexico,Windows 7 32-bit,Windows 8 64-bit,DirectX 9,3 GB,66.5,3 GB,77.5,2.0,3.2,45.0,66.5,1536.0,1051.0,11.0,13.5,29.5,67.25
+Warlocks Citadel,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Noch,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,8 GB,36.5,8 GB,27.0,6.0,3.25,27.0,36.5,7168.0,2001.0,12.05,61.5,159.5,224.1
+Sims 3: Monte Vista,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,3 GB,66.5,3 GB,155.0,1.0,2.05,65.0,66.5,128.0,137.5,9.0,0.0,0.0,4.4
+Maneater,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,4 GB,36.5,4 GB,32.0,5.0,3.75,27.0,36.5,1152.0,943.5,11.0,26.5,42.0,134.15
+Codename CURE,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,4 GB,72.5,4 GB,90.0,1.0,2.4,77.5,72.5,64.0,200.0,9.0,0.0,0.0,3.2
+Dangerous Driving 2,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,12 GB,36.5,12 GB,32.0,5.0,4.1,16.0,36.5,4096.0,1501.5,11.6,63.5,137.5,272.2
+F1 2019,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,80 GB,0.0,80 GB,32.0,3.0,3.6,13.0,0.0,1536.0,1008.0,11.05,13.5,27.5,50.25
+Fugl,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,15 GB,0.0,25 GB,45.0,4.0,3.3,14.0,0.0,1536.0,1437.5,11.6,17.0,42.5,92.0
+Temtem,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,5 GB,50.0,5 GB,38.5,2.0,3.6,23.0,50.0,1024.0,950.0,11.05,10.0,23.0,46.4
+Dark Matter,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,72.0,2 GB,77.5,2.0,3.0,38.5,72.0,320.0,550.0,9.5,1.0,2.5,6.8
+Dagon,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,3 GB,35.5,3 GB,23.0,4.0,2.95,14.0,35.5,2048.0,1451.0,11.55,28.0,72.5,161.7
+Sudeki,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,5.6 GB,66.5,5.6 GB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Fallout 4 - Nuka World,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,30 GB,36.5,30 GB,38.5,4.0,4.15,11.0,36.5,1536.0,1112.5,11.05,27.0,54.5,126.0
+Omegalodon,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,0.0,0MB,90.0,1.0,2.6100000000000003,130.0,0.0,96.0,225.0,8.55,0.0,0.0,3.6
+Regalia: Of Men and Monarchs,Windows 7 64-bit,Windows 7 64-bit,,5 GB,34.5,5 GB,55.0,2.0,3.2,32.0,34.5,384.0,865.0,10.05,10.5,16.0,55.35
+Mass Effect 3: Earth,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,61.0,1 GB,65.0,2.0,2.75,65.0,61.0,512.0,395.0,10.55,1.0,2.5,6.3
+Bullshot,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,1.5 GB,32.5,1.5 GB,65.0,2.0,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+Saints Row IV: How The Saints Save Christmas,Windows Vista 32-bit,Windows Vista 64-bit,DirectX 10,10 GB,66.0,10 GB,45.0,2.0,2.5,55.0,66.0,1024.0,950.0,11.0,3.5,10.0,46.4
+Kena: Bridge of Spirits,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,25 GB,0.0,25 GB,27.0,4.0,3.5,14.0,0.0,1024.0,1187.5,11.1,15.0,30.0,76.0
+Warhammer: End Times - Vermintide Karak Azgaraz,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,20 GB,36.5,30 GB,45.0,4.0,4.15,11.0,36.5,1024.0,1050.0,11.5,18.0,36.0,96.0
+Yakuza Zero,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,40 GB,33.5,40 GB,27.0,5.0,3.25,18.0,33.5,1536.0,1313.0,11.5,21.5,47.5,116.05
+Exoplanet: First Contact,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,3 GB,66.5,3 GB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Stormdivers,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,40 GB,36.5,40 GB,38.5,3.0,3.75,27.0,36.5,2048.0,1487.5,11.6,17.5,53.5,95.2
+Two Point Hospital: Off The Grid,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,6 GB,50.0,6 GB,23.0,3.0,3.45,14.0,50.0,2048.0,1375.0,12.0,21.5,57.5,16.0
+Hyperspace Pinball,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+DCL - The Game,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,12 GB,36.5,12 GB,32.0,3.0,3.35,18.0,36.5,1024.0,1225.0,11.05,15.5,34.0,78.4
+Courage,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Not For Broadcast,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,11 GB,35.5,11 GB,23.0,6.0,2.95,23.0,35.5,1024.0,1375.0,11.15,16.5,45.5,88.0
+Kathy Rain,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,66.5,1 GB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Cabelas Big Game Hunter: 2004 Season,Windows 98,0,DirectX 8,0MB,0.0,0,180.0,1.0,1.1,180.0,0.0,48.0,266.0,7.0,0.0,0.0,2.1
+Journey of Greed,Windows XP 32-bit,Windows 10 64-bit,DirectX 10,1 GB,69.5,1 GB,55.0,2.0,3.35,32.0,69.5,512.0,650.0,10.05,6.5,25.0,28.0
+Crysis 2 Remastered,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,20 GB,47.5,20 GB,18.0,4.0,3.7,10.5,47.5,4096.0,1701.0,12.05,42.0,110.5,161.64999999999998
+Impostor Factory,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Desperados 3,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,20 GB,36.5,20 GB,27.0,3.0,3.75,27.0,36.5,1664.0,1100.0,11.0,27.5,57.0,156.0
+Star Wars: Battlefront - Death Star,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,40 GB,50.0,40 GB,23.0,3.0,3.7,23.0,50.0,2048.0,1351.0,11.1,26.5,69.0,148.89999999999998
+Rocket Knight,Windows XP 32-bit,Windows Vista 32-bit,DirectX 9,0MB,0.0,0MB,155.0,1.0,2.58,110.0,0.0,192.0,410.0,9.0,0.0,0.0,20.65
+Silkroad-R Online,Windows 2000,Windows 2000,DirectX 9,4 GB,0.0,4 GB,90.0,1.0,2.3665000000000003,130.0,0.0,48.0,350.0,7.55,0.0,0.0,5.6
+Degrees of Separation,Windows 7 32-bit,Windows 10 64-bit,DirectX 11,3 GB,35.0,3 GB,65.0,2.0,2.665,38.5,35.0,768.0,450.0,10.6,3.0,6.5,7.2
+Transformers: The Fall of Cybertron,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,8.4 GB,35.0,8.4 GB,65.0,2.5,2.215,65.0,35.0,416.0,892.5,10.05,10.0,18.5,63.5
+Agarest: Generations of War 2,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Polyhegrams,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Time Squared,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,35 GB,67.0,35 GB,55.0,2.0,3.2,32.0,67.0,1024.0,1026.0,11.0,12.0,25.0,65.65
+Rock of Ages 3: Make & Break,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,3 GB,36.0,3 GB,32.0,4.0,3.95,27.0,36.0,2048.0,1626.0,11.55,25.0,88.5,96.15
+Alarm for Cobra 11-Crash Time,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,66.5,2 GB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Ultimate ADOM - Caverns of Chaos,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,0MB,70.0,0MB,55.0,2.0,2.85,38.5,70.0,768.0,899.0,11.05,3.0,6.0,21.6
+The Gunk,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,15 GB,69.5,15 GB,33.5,2.5,2.9,38.5,69.5,2048.0,1012.5,12.0,11.5,24.5,50.4
+Gene Rain: Wind Tower - Sky City's Rebirth,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,12 GB,0.0,20 GB,27.0,6.0,3.0,14.0,0.0,2048.0,1275.0,11.15,24.5,61.5,120.0
+The Binding of Isaac,Windows Vista 32-bit,Windows XP 32-bit,DirectX 9,0MB,0.0,0MB,180.0,1.0,2.1815,130.0,0.0,160.0,316.0,8.0,0.0,0.0,2.5
+Rebel Cops,Windows 7 64-bit,Windows 10 64-bit,DirectX 10,2 GB,30.5,2 GB,55.0,2.0,2.8,55.0,30.5,2048.0,900.0,11.6,6.5,15.0,21.6
+Caesar IV,Windows 2000,0,DirectX 9,2 GB,32.5,2 GB,180.0,1.0,2.4,90.0,32.5,128.0,235.0,9.0,0.0,0.0,3.75
+The Seed,Windows XP 32-bit,0,DirectX 9,3 GB,66.5,3 GB,130.0,1.0,2.165,77.5,66.5,128.0,375.0,9.0,1.0,1.0,8.8
+FIFA 18,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,50 GB,86.0,50 GB,38.5,3.0,3.6,21.0,86.0,1536.0,1075.0,12.0,19.0,47.0,97.6
+Wayward Manor,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,2 GB,37.0,2 GB,65.0,2.0,3.23,45.0,37.0,128.0,255.0,10.05,4.0,14.0,8.15
+Salt and Sacrifice,Windows Vista 32-bit,Windows 8 32-bit,DirectX 10,2 GB,36.5,2 GB,45.0,2.5,2.65,65.0,36.5,768.0,1046.5,10.05,11.0,36.0,67.0
+Spate,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,2 GB,70.5,2 GB,77.5,2.0,2.5,45.0,70.5,384.0,400.0,9.0,0.0,0.0,12.8
+Xotic,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,3.5 GB,66.0,4 GB,65.0,2.0,2.5,65.0,66.0,256.0,750.0,9.0,0.0,0.0,48.0
+Captain Morgane and the Golden Turtle,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,3 GB,0.0,3 GB,180.0,1.0,1.665,155.0,0.0,128.0,166.5,9.0,0.0,0.0,2.65
+Victory and Glory: Napoleon,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0,66.5,0,155.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+ReCore,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,50 GB,36.5,50 GB,27.0,6.0,3.8,27.0,36.5,2048.0,1451.0,11.55,28.0,72.5,161.7
+Civilization V: Gods And Kings,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,1 GB,35.0,1 GB,65.0,2.0,2.215,65.0,35.0,256.0,600.0,9.5,1.5,3.0,27.2
+Sims 3: World Adventures,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,3.5 GB,66.5,3.5 GB,155.0,1.0,2.05,65.0,66.5,192.0,137.5,9.0,0.0,0.0,4.4
+Grow Up,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,1 GB,67.5,1 GB,45.0,2.0,3.3,38.5,67.5,1024.0,925.0,11.0,13.5,26.0,86.4
+Total War: Rome II,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,35 GB,66.0,35 GB,65.0,2.0,2.95,38.5,66.0,384.0,750.0,10.05,3.0,7.0,17.6
+War of Rights,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,15 GB,69.5,15 GB,33.5,2.5,2.9,38.5,69.5,1536.0,1075.0,11.15,6.0,14.5,34.4
+Zero Escape: The Nonary Games,Windows 7 32-bit,Windows 7 64-bit,DirectX 9,5 GB,33.5,6 GB,45.0,2.5,3.25,27.0,33.5,1024.0,975.0,10.6,5.5,16.0,31.2
+Fallback,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,4 GB,36.5,4 GB,32.0,3.0,3.95,27.0,36.5,2560.0,1501.5,11.6,34.0,89.5,176.1
+Need for Speed: Undercover,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,6 GB,36.0,6 GB,110.0,1.0,2.65,65.0,36.0,192.0,337.5,9.0,0.0,0.0,9.2
+Mechwarrior Online,Windows Vista 32-bit,Windows 7 64-bit,DirectX 9,4 GB,36.5,4 GB,55.0,2.0,3.25,38.5,36.5,768.0,750.0,10.5,6.5,9.5,35.2
+Magicka: Horror Props DLC,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,36.0,0MB,110.0,1.0,1.75,65.0,36.0,512.0,650.0,10.5,3.5,6.5,20.8
+Infinite Crisis,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,2 GB,71.5,2 GB,38.5,2.5,2.8,38.5,71.5,768.0,900.0,11.0,4.0,13.5,57.6
+Uppers,Windows 8 32-bit,Windows 10 64-bit,DirectX 11,2 GB,70.0,2 GB,55.0,4.0,2.85,38.5,70.0,1024.0,1112.5,11.0,18.0,31.5,87.6
+Iron Danger,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,5 GB,52.5,5 GB,38.5,4.0,3.7,27.0,52.5,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+Hyper Light Drifter,Windows Vista 32-bit,Windows XP 32-bit,DirectX 9,0MB,0.0,0MB,180.0,1.0,2.1815,130.0,0.0,160.0,316.0,8.0,0.0,0.0,2.5
+Metro: Last Light Redux,Windows XP 32-bit,Windows 7 64-bit,DirectX 10,10 GB,36.0,10 GB,65.0,2.0,3.2,45.0,36.0,512.0,1013.0,10.05,11.0,23.0,64.85
+TheBluVR,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,4 GB,67.0,4 GB,27.0,6.0,3.5,22.0,67.0,6144.0,1626.5,12.0,72.5,170.5,304.2
+Assassins Creed: Origins,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,50 GB,52.5,50 GB,32.0,5.0,3.7,27.0,52.5,2048.0,1451.0,11.15,27.5,78.5,161.7
+Fifa Manager 14,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,7 GB,66.5,7 GB,180.0,1.0,2.1,77.5,66.5,256.0,615.0,9.0,4.5,4.5,27.7
+Evergate,Windows 7 64-bit,Windows 10 64-bit,DirectX 9,0MB,70.5,0MB,65.0,2.0,2.4,55.0,70.5,1024.0,925.0,10.55,4.5,17.0,59.2
+The Rat Project,Windows XP 32-bit,Windows 10 64-bit,DirectX 10,1 GB,70.5,1 GB,55.0,2.0,2.4,55.0,70.5,1024.0,800.0,10.6,5.5,16.0,18.4
+Werewolf: The Apocalypse,Windows 10 64-bit,Windows 10 64-bit,,20 GB,0.0,20 GB,27.0,6.0,3.5,10.5,0.0,1024.0,1375.0,11.1,16.5,45.0,88.0
+Doom & Destiny Advanced,Windows 7 32-bit,Windows 7 32-bit,DirectX 10,0,32.5,0,65.0,2.0,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+Mecha Ace,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Tropico 4,Windows XP 32-bit,Windows Vista 32-bit,DirectX 9,5 GB,0.0,5 GB,77.5,2.0,2.565,55.0,0.0,384.0,337.5,9.0,0.0,0.0,8.600000000000001
+Interwebz TROLL Simulator,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Max Payne 3: Deathmatch Made in Heaven,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,35 GB,34.5,35 GB,65.0,2.0,3.3,32.0,34.5,384.0,250.0,10.0,3.0,5.0,8.0
+Final Fantasy XIV: Stormblood,Windows 7 32-bit,Windows 10 64-bit,DirectX 9,60 GB,34.5,60 GB,32.0,5.0,3.05,32.0,34.5,1536.0,1437.5,11.6,17.5,48.5,92.0
+Storm The Game,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,36.0,2 GB,180.0,1.0,1.85,65.0,36.0,320.0,550.0,9.5,1.0,2.5,6.8
+Tropico 5 - Supervillain,Windows Vista 32-bit,Windows 7 64-bit,DirectX 11,4 GB,71.0,4 GB,65.0,2.0,2.35,38.5,71.0,1024.0,850.0,11.05,1.5,1.5,27.200000000000003
+Ninja Gaiden Sigma,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,15 GB,69.5,15 GB,33.5,2.5,2.9,38.5,69.5,2048.0,1012.5,12.0,11.5,24.5,50.4
+Hearts of Iron IV: Together For Victory,Windows 7 64-bit,Windows Vista 32-bit,DirectX 9,2 GB,67.5,2 GB,45.0,4.0,2.93,45.0,67.5,1152.0,918.5,11.0,23.5,43.0,130.95
+Tell Me Why,Windows 10 64-bit,Windows 10 64-bit,DirectX 12,25 GB,36.5,25 GB,18.0,4.0,3.5,18.0,36.5,512.0,1475.0,11.55,45.5,86.5,248.0
+From Dust,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,4 GB,65.0,4 GB,65.0,2.0,2.83,45.0,65.0,384.0,865.0,10.05,10.5,22.5,55.35
+Rocket League,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,2 GB,71.0,2 GB,65.0,2.0,2.25,48.5,71.0,320.0,800.0,10.0,7.0,16.5,44.8
+War Thunder,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,8 GB,66.0,8 GB,130.0,1.0,2.45,65.0,66.0,256.0,830.0,9.0,3.5,5.5,53.1
+DwarfHeim,Windows 7 64-bit,Windows 10 64-bit,DirectX 9,10 GB,36.5,30 GB,65.0,2.0,3.45,32.0,36.5,704.0,949.5,10.05,14.0,33.5,113.55
+Kingdoms of Amalur: The Legend of Dead Kel,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,71.0,1 GB,65.0,2.0,2.5,55.0,71.0,192.0,400.0,10.05,3.5,13.0,19.2
+Bee Simulator,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,10 GB,50.0,10 GB,32.0,6.0,3.4000000000000004,14.0,50.0,2048.0,1476.0,11.55,33.5,109.5,188.95
+Dead Space Remake,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,40 GB,36.5,40 GB,38.5,3.0,3.75,27.0,36.5,7168.0,2001.0,12.05,62.5,165.0,224.1
+Deponia,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,5 GB,36.0,5 GB,130.0,1.0,2.7,77.5,36.0,512.0,595.0,10.55,3.5,6.5,9.5
+Train Simulator 2012: GWR King Add-On,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,36.0,0MB,130.0,1.0,1.85,65.0,36.0,256.0,400.0,10.5,3.5,4.5,9.6
+Matador,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0,66.5,0,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Shadow Brawlers,Windows 7 32-bit,Windows 10 64-bit,DirectX 10,1 GB,65.5,1 GB,155.0,1.0,2.2,55.0,65.5,512.0,1013.0,10.05,11.0,23.0,64.85
+Age of Conan: Hyborian Adventures,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,27 GB,36.0,27 GB,77.5,2.0,2.865,45.0,36.0,256.0,840.0,9.5,2.0,4.5,42.55
+Command & Conquer: Red Alert 3 - Uprising,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,10 GB,72.5,10 GB,130.0,1.0,2.25,65.0,72.5,256.0,625.0,9.0,0.0,0.0,34.4
+SPACERIFT: Arcanum System,Windows XP 32-bit,Windows 10 64-bit,DirectX 11,5 GB,50.0,5 GB,45.0,2.0,3.1,14.0,50.0,768.0,1112.5,11.0,18.0,31.5,87.6
+Castlevania: Lords of Shadow 2,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,10 GB,71.0,10 GB,65.0,2.0,2.465,45.0,71.0,128.0,255.0,10.05,4.0,14.0,8.15
+State Of Decay 2: Juggernaut Edition,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,16 GB,36.5,30 GB,32.0,5.0,3.6,27.0,36.5,2048.0,1351.0,11.1,32.5,89.5,172.95
+Life of Rome,Windows 7 64-bit,Windows 8 64-bit,DirectX 10,30 GB,33.5,30 GB,65.0,4.0,3.6,27.0,33.5,512.0,900.0,10.05,11.0,32.0,86.4
+Drive,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,2 GB,37.0,2 GB,65.0,2.0,3.23,45.0,37.0,128.0,255.0,10.05,4.0,14.0,8.15
+Lords Of Football,Windows Vista 32-bit,Windows 7 64-bit,DirectX 9,9 GB,72.0,9 GB,65.0,2.0,3.115,45.0,72.0,640.0,600.0,10.05,1.0,2.5,12.8
+Tribes of Midgard,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,8 GB,36.5,8 GB,32.0,5.0,3.15,32.0,36.5,1024.0,1063.0,11.05,21.0,42.5,100.05
+The Sexy Brutale,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,3 GB,36.5,40 GB,27.0,6.0,3.35,23.0,36.5,2048.0,1351.0,11.1,26.5,69.0,148.89999999999998
+Fifos Night,Windows 7 64-bit,Windows 10 64-bit,DirectX 9,2 GB,36.5,2 GB,32.0,4.0,2.95,22.0,36.5,1536.0,1251.0,11.05,25.0,60.0,136.1
+Rays The Dead,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,2 GB,37.0,2 GB,65.0,2.0,3.23,45.0,37.0,128.0,255.0,10.05,4.0,14.0,8.15
+Among Us,Windows 7 32-bit,Windows 10 64-bit,DirectX 10,0MB,70.5,0MB,55.0,2.0,2.4,55.0,70.5,256.0,600.0,10.0,2.0,3.0,8.0
+Sir You Are Being Hunted,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,0MB,73.0,0MB,65.0,2.0,2.315,55.0,73.0,640.0,800.0,10.5,3.0,8.5,18.4
+GORN,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,2 GB,36.5,2 GB,27.0,6.0,3.3,18.0,36.5,4096.0,1751.5,12.0,53.0,141.0,224.2
+1971 Project Helios,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,3 GB,0.0,3 GB,38.5,4.0,3.8,14.0,0.0,1792.0,1101.0,11.55,34.5,64.5,173.0
+Rebel Galaxy Outlaw,Windows Vista 64-bit,Windows 7 64-bit,DirectX 9,20 GB,36.5,20 GB,38.5,2.5,3.3,32.0,36.5,1024.0,950.0,11.5,23.5,37.5,121.6
+Rocksmith - Tone Customization - Time Saver Pack,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,1 GB,67.0,1 GB,77.5,2.0,2.88,65.0,67.0,256.0,700.0,10.0,3.5,7.5,22.4
+Maiden and Spell,Windows 7 32-bit,Windows 10 64-bit,DirectX 10,0MB,30.5,0MB,180.0,1.0,2.8,55.0,30.5,256.0,600.0,10.0,2.0,3.0,8.0
+Monster Energy Supercross - The Official Videogame 3,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,10 GB,33.5,10 GB,25.0,4.0,3.55,18.0,33.5,2048.0,1451.0,11.55,33.5,91.5,185.75
+Syrian Warfare,Windows 7 64-bit,Windows 10 64-bit,DirectX 9,10 GB,73.5,10 GB,32.0,3.0,3.6,27.0,73.5,1024.0,937.5,10.55,8.5,23.5,76.8
+Your Chronicle,Windows 7 64-bit,Windows 10 64-bit,DirectX 10,1 GB,32.5,1 GB,38.5,2.5,3.2,33.5,32.5,256.0,250.0,10.05,2.0,3.5,2.0
+Total War: Rome II - Empire Divided,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,35 GB,66.0,35 GB,65.0,2.0,2.95,38.5,66.0,384.0,750.0,10.05,3.0,7.0,17.6
+NBA 2K18,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,70 GB,36.5,70 GB,38.5,3.0,3.55,27.0,36.5,1024.0,950.0,11.0,13.5,26.5,49.6
+Halfway,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,66.5,1 GB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Total War Saga: Troy,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,26 GB,50.0,26 GB,55.0,2.5,3.45,13.0,50.0,1024.0,1050.0,11.5,18.0,36.0,96.0
+Friday the 13th: Killer Puzzle - Episode 6: Slayground,Windows 7 32-bit,Windows 10 64-bit,DirectX 9,0MB,30.5,0MB,155.0,1.0,2.7,55.0,30.5,384.0,600.0,10.0,2.0,3.0,9.6
+Malicious Payload,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,2 GB,50.0,2 GB,27.0,6.0,3.4,14.0,50.0,4096.0,1751.5,12.0,53.5,152.5,224.2
+Anno 2070: The Development,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,5 GB,31.0,5 GB,77.5,2.0,3.1500000000000004,55.0,31.0,768.0,850.0,11.0,3.0,5.5,13.6
+Arcade Tycoon,Windows 7 64-bit,Windows 10 64-bit,DirectX 10,1.5 GB,32.5,1.5 GB,38.5,3.0,2.8,38.5,32.5,512.0,700.0,10.5,1.5,3.0,22.4
+Rocksmith - Ultimate Time Saver Bundle,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,1 GB,67.0,1 GB,77.5,2.0,2.88,65.0,67.0,256.0,700.0,10.0,3.5,7.5,22.4
+Half-Life 2: Episode 1,Windows XP 32-bit,0,DirectX 9,1.5 GB,32.5,4.5 GB,180.0,1.0,2.4,90.0,32.5,128.0,200.0,10.0,2.0,3.0,3.2
+The Falconeer,Windows 10 64-bit,Windows 7 64-bit,DirectX 11,5 GB,36.5,5 GB,25.0,3.0,3.75,27.0,36.5,1536.0,1351.0,11.05,19.5,58.5,110.5
+Almighty: Kill Your Gods,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,10 GB,47.5,10 GB,22.0,4.0,3.3,10.5,47.5,2048.0,1526.5,11.65,36.0,70.5,142.5
+Left 4 Dead 2,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,7.5 GB,72.5,7.5 GB,130.0,1.0,2.3,77.5,72.5,256.0,750.0,9.5,1.5,3.5,24.0
+Jotun,Windows 7 32-bit,Windows 7 64-bit,DirectX 10,10 GB,66.5,8 GB,180.0,1.0,2.1,77.5,66.5,384.0,250.0,10.0,2.0,3.5,2.0
+Call of Duty: Modern Warfare 2 Remastered,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,80 GB,36.5,80 GB,27.0,4.0,3.45,23.0,36.5,2560.0,1376.0,11.1,28.5,100.0,216.15
+unwind,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Failspace,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,5 GB,0.0,5 GB,27.0,6.0,3.1500000000000004,14.0,0.0,4096.0,1751.5,12.0,54.5,158.0,224.2
+Pneuma: Breath of Life,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Life Is Feudal,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,5 GB,67.5,10 GB,38.5,3.0,3.35,38.5,67.5,1024.0,950.0,11.5,22.5,45.0,121.6
+Dragon Age: The Last Court,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0,66.5,0,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Monochroma,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,4 GB,66.5,4 GB,155.0,1.0,2.1,77.5,66.5,256.0,200.0,10.1,2.5,2.5,3.2
+Ninja Guy,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Call of Duty Warzone,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,175 GB,36.5,175 GB,27.0,4.0,3.45,23.0,36.5,2560.0,1376.0,11.1,28.5,100.0,216.15
+Haydee,Windows Vista 64-bit,Windows 7 64-bit,DirectX 11,1 GB,68.5,1 GB,55.0,2.5,2.45,29.5,68.5,1024.0,1001.0,11.0,13.0,28.5,64.05000000000001
+Forbidden Sanctity,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Apollo4X,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Lethal VR,Windows 10 64-bit,Windows 10 64-bit,,0MB,36.5,0MB,27.0,6.0,3.8,27.0,36.5,6144.0,1626.5,12.0,65.0,141.5,304.2
+Tools Up!,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,3 GB,73.5,3 GB,32.0,3.0,3.5,32.0,73.5,1024.0,950.0,11.0,4.0,14.5,46.4
+Backstage Press,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Freeman: Guerrilla Warfare,Windows 7 64-bit,Windows 10 64-bit,DirectX 10,8 GB,36.5,10 GB,32.0,6.0,3.75,18.0,36.5,2048.0,1476.0,11.55,33.5,109.5,188.95
+Battlefield 2042,Windows 10 64-bit,Windows 10 64-bit,DirectX 12,100 GB,36.5,100 GB,10.5,5.0,3.65,17.0,36.5,4096.0,1751.0,12.05,32.5,74.5,112.05
+Clash: Artifacts of Chaos,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,40 GB,36.5,40 GB,38.5,3.0,3.75,27.0,36.5,2048.0,1487.5,11.6,17.5,53.5,95.2
+Wolfenstein: Youngblood,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,40 GB,36.5,40 GB,18.0,4.0,3.5,18.0,36.5,3072.0,1501.0,11.6,48.0,145.5,272.15
+ShootMania Storm,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,36.0,2 GB,180.0,1.0,2.55,65.0,36.0,128.0,250.0,9.5,1.5,1.5,8.0
+Tales From The Borderlands: Episode 1 - Zer0 Sum,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,36.5,2 GB,155.0,1.0,2.5,65.0,36.5,768.0,550.0,10.1,3.5,10.5,14.4
+Company of Heroes 2,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,30 GB,71.5,30 GB,65.0,2.0,2.8,38.5,71.5,512.0,864.0,10.0,11.0,23.0,81.8
+Destination Sol,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Dice Legacy,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,2 GB,0.0,2 GB,23.0,2.0,3.55,14.0,0.0,1536.0,1313.5,11.1,19.0,54.5,108.1
+Clones,Windows 7 32-bit,0,DirectX 9,0MB,0.0,0MB,180.0,1.0,2.1585,130.0,0.0,128.0,133.0,9.0,0.0,0.0,1.05
+South Park: Stick of Truth - Super Samurai Spaceman,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,6 GB,72.0,6 GB,65.0,2.0,2.88,45.0,72.0,640.0,810.0,10.1,7.5,12.0,25.950000000000003
+Sleeping Dogs: Nightmare in North Point,Windows Vista 32-bit,Windows 7 64-bit,DirectX 10,1 GB,35.0,1 GB,65.0,2.0,2.215,65.0,35.0,768.0,900.5,11.0,14.5,25.0,76.85
+RE:OZMA,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,0MB,72.0,1 GB,45.0,2.0,2.85,38.5,72.0,1024.0,1026.0,11.0,12.0,25.0,65.65
+Visage,Windows 7 64-bit,Windows 10 32-bit,DirectX 10,10 GB,50.0,10 GB,14.0,3.0,3.5,14.0,50.0,2048.0,1526.5,12.05,34.5,59.5,142.5
+Constantine,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,0.0,2 GB,155.0,1.0,1.7915,130.0,0.0,128.0,600.0,10.0,2.0,3.0,3.2
+Rage Some More!,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Tiny Tina's Wonderlands,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,75 GB,36.5,75 GB,27.0,6.0,3.4,17.0,36.5,3072.0,1701.5,12.05,38.5,114.5,161.7
+Shadowgate,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,0,60.0,0,65.0,2.0,2.66,65.0,60.0,128.0,255.0,10.05,4.0,14.0,8.15
+Call Of Duty: Ghosts - Nemesis,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,40 GB,71.0,40 GB,55.0,2.5,2.58,45.0,71.0,1024.0,1051.0,11.0,20.0,46.5,105.65
+Aliens: Fireteam,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,30 GB,84.0,30 GB,38.5,3.0,3.4000000000000004,18.0,84.0,1024.0,1187.5,11.1,16.5,37.0,76.0
+Sanctum 2: Ruins Of Brightholme,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,2 GB,71.0,2 GB,77.5,2.0,2.5,55.0,71.0,512.0,850.0,9.5,2.5,5.5,38.4
+Cruelty Squad,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,1 GB,36.5,1 GB,13.0,4.0,3.75,27.0,36.5,3072.0,1751.0,12.05,33.0,62.5,56.05
+Headspun,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,7.5 GB,71.0,7.5 GB,30.0,3.0,2.45,55.0,71.0,960.0,1074.5,10.5,13.5,31.0,92.75
+Deus Ex 3: Explosive Mission Pack,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,1 GB,35.5,1 GB,65.0,2.0,2.9,55.0,35.5,448.0,814.0,10.0,9.5,19.0,72.2
+Power of Defense,Windows 7 32-bit,0,DirectX 9,0MB,0.0,0MB,180.0,1.0,2.5835,110.0,0.0,192.0,337.5,9.0,0.0,0.0,5.4
+Star Wars: BattleCry,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,2 GB,37.0,2 GB,65.0,2.0,3.23,45.0,37.0,128.0,255.0,10.05,4.0,14.0,8.15
+Blood Spear,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,2 GB,102.5,2 GB,14.0,8.0,2.9,10.5,102.5,3072.0,1751.0,12.05,33.0,62.5,56.05
+Zeit Squared,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,72.0,1 GB,65.0,2.0,2.365,77.5,72.0,256.0,830.0,9.0,0.0,0.0,53.1
+The Binding of Isaac: Rebirth,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0,66.5,0,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+F.E.A.R. Extraction Point,Windows XP 32-bit,0,DirectX 9,3.5 GB,0.0,4 GB,180.0,1.0,2.5835,110.0,0.0,128.0,133.0,9.0,0.0,0.0,1.05
+Steep: Rocket Wings,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,25 GB,52.5,25 GB,32.0,5.0,3.75,27.0,52.5,2048.0,1376.0,11.55,20.5,69.5,112.1
+Moons of Ventocia,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,5 GB,68.0,5 GB,38.5,3.0,2.55,38.5,68.0,1024.0,901.0,11.0,9.0,19.0,43.25
+Eve Online: Rubicon,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,20 GB,65.0,20 GB,65.0,2.0,3.03,45.0,65.0,384.0,1075.0,10.0,4.0,9.0,34.4
+Explodemon!,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,3 GB,66.5,3 GB,65.0,2.0,1.9,77.5,66.5,256.0,450.0,10.0,3.0,4.5,14.4
+City of Steam,Windows XP 32-bit,Windows Vista 32-bit,DirectX 9,2 GB,66.5,2 GB,155.0,1.0,2.1,77.5,66.5,384.0,400.0,10.05,2.0,3.5,6.4
+Wire Lips,Windows 7 64-bit,Windows 10 64-bit,DirectX 9,1 GB,67.0,1 GB,45.0,4.0,2.95,32.0,67.0,1024.0,950.0,11.0,4.0,14.5,46.4
+Sherlock Holmes: The Devils Daughter,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,20 GB,70.0,20 GB,32.0,3.0,3.1,30.0,70.0,1024.0,1251.0,11.05,20.5,50.0,112.15
+Galactic Civilizations III,Windows 7 64-bit,Windows 7 64-bit,DirectX 9,12 GB,71.5,15 GB,65.0,4.0,2.8,38.5,71.5,2048.0,850.0,11.0,8.5,15.0,33.6
+The Great Paper Adventure,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Cafe 0: The Drowned Mermaid,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Ravenfield,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,15 GB,67.0,15 GB,38.5,3.0,2.95,38.5,67.0,1536.0,1187.5,11.6,6.5,15.0,56.0
+The Few,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Karos,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Professional Farmer 2014,Windows XP 32-bit,Windows XP 64-bit,DirectX 9,4 GB,35.0,4 GB,65.0,2.0,2.215,65.0,35.0,256.0,650.0,9.55,4.5,6.0,28.8
+Worms Clan Wars,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,66.5,2 GB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Scare,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+World War 3,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,35 GB,36.5,35 GB,32.0,6.0,3.6,18.0,36.5,2048.0,1476.0,11.55,33.5,109.5,188.95
+Contraband,Windows 7 64-bit,Windows 10 32-bit,DirectX 11,59 GB,36.5,59 GB,32.0,5.0,3.3,18.0,36.5,2048.0,1451.0,11.55,31.5,79.0,185.75
+The Sims 4 Star Wars: Journey to Batuu,Windows XP 32-bit,Windows 10 64-bit,DirectX 9,9 GB,36.5,9 GB,97.5,1.5,3.5,32.0,36.5,192.0,437.5,9.0,0.0,0.0,14.0
+Model Builder,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,4 GB,0.0,4 GB,33.5,3.0,3.0,14.0,0.0,1536.0,1313.0,11.5,22.0,53.5,116.05
+Mod and Play,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,0MB,36.5,1 GB,38.5,4.0,3.25,32.0,36.5,1152.0,943.5,11.0,26.5,42.0,134.15
+Sleeping Dogs: Street Racer,Windows Vista 32-bit,Windows 7 64-bit,DirectX 10,1 GB,35.0,1 GB,65.0,2.0,2.215,65.0,35.0,768.0,900.5,11.0,14.5,25.0,76.85
+Tigers on the Hunt,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0,130.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Starship Corporation,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,2 GB,33.5,2 GB,32.0,6.0,3.45,27.0,33.5,768.0,450.0,10.6,3.0,6.5,7.2
+Fokus,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Bang-On Balls: Chronicles,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,3 GB,0.0,3 GB,14.0,4.0,3.2,13.0,0.0,2048.0,1351.0,11.1,26.5,69.0,148.89999999999998
+Sam and Max Save the World Remastered,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,2 GB,36.5,2 GB,55.0,2.0,3.0,55.0,36.5,1024.0,1013.5,11.05,13.0,25.5,64.85
+The Old Tree,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Brothers: A Tale of Two Sons,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,6 GB,37.0,6 GB,65.0,2.0,3.23,45.0,37.0,128.0,255.0,10.05,4.0,14.0,8.15
+Skul: The Hero Slayer,Windows 7 32-bit,Windows 10 64-bit,DirectX 9,0MB,36.5,0MB,32.0,5.0,3.15,32.0,36.5,768.0,1026.0,11.0,12.0,25.0,65.65
+Warface,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,6 GB,0.0,6 GB,77.5,2.0,3.0650000000000004,67.5,0.0,256.0,850.0,9.5,2.0,4.5,43.2
+City Car Driving,Windows 7 64-bit,Windows XP 32-bit,DirectX 11,10 GB,71.5,10 GB,45.0,2.0,3.4000000000000004,32.0,71.5,2048.0,900.0,11.6,11.0,24.0,28.8
+Sonic Generations,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,11 GB,36.5,11 GB,65.0,2.0,2.93,45.0,36.5,512.0,850.0,10.0,10.0,22.0,54.400000000000006
+Blackbay Asylum,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+D4,Windows 7 64-bit,Windows 8 64-bit,DirectX 11,10 GB,36.5,20 GB,45.0,4.0,4.1,11.0,36.5,1152.0,943.5,11.0,26.5,42.0,134.15
+The Legend of HyperStar,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,8 GB,0.0,8 GB,23.0,6.0,3.3,14.0,0.0,1024.0,1751.0,12.05,33.0,62.5,56.05
+11-11 Memories Retold,Windows 7 64-bit,0,DirectX 11,6 GB,52.5,6 GB,38.5,4.0,3.7,27.0,52.5,2048.0,1351.0,11.1,28.5,81.5,148.89999999999998
+Guardians of Victoria,Windows 7 32-bit,Windows 7 64-bit,DirectX 9,0MB,32.5,0MB,65.0,2.0,3.2,33.5,32.5,512.0,1013.0,10.05,11.0,23.0,64.85
+WarBirds 2012,Windows 2000,Windows 2000,DirectX 9,1.5 GB,0.0,1.5 GB,180.0,1.0,2.4665,130.0,0.0,128.0,525.0,9.0,1.5,1.5,28.0
+Qbeh-1: The Atlas Cube,Windows Vista 32-bit,Windows 7 32-bit,DirectX 9,3 GB,66.5,3 GB,45.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Kick Ass Commandos,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Alpha Polaris,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,0.0,2 GB,155.0,1.0,2.5835,110.0,0.0,192.0,337.5,9.0,0.0,0.0,5.4
+Streets of Moscow,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,3 GB,72.5,3 GB,110.0,1.0,2.2,77.5,72.5,192.0,304.0,9.0,1.0,1.0,4.85
+Stars in Shadow,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,0,65.5,0,65.0,2.0,2.515,65.0,65.5,1280.0,900.0,10.6,8.0,25.0,43.2
+Continents,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Pixel Galaxy,Windows 7 32-bit,Windows 7 32-bit,DirectX 9,0MB,32.5,0MB,65.0,2.0,3.2,33.5,32.5,512.0,850.0,10.05,11.0,28.5,54.400000000000006
+Battlerite,Windows 7 32-bit,Windows 7 64-bit,DirectX 9,1.5 GB,32.5,1.5 GB,45.0,2.0,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+Jagged Alliance: Back in Action,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,3 GB,71.5,3 GB,65.0,2.0,3.05,38.5,71.5,320.0,750.0,9.5,3.5,13.0,41.6
+Biker Garage: Mechanic Simulator,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,5 GB,36.5,5 GB,27.0,6.0,3.65,27.0,36.5,4096.0,1501.5,11.6,63.5,137.5,272.2
+Gear Up,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,36.0,1 GB,180.0,1.0,1.85,65.0,36.0,320.0,550.0,9.5,1.0,2.5,6.8
+Warlock 2: The Exiled,Windows Vista 64-bit,Windows 7 64-bit,DirectX 9,0,63.5,0,67.5,2.0,3.3,33.5,63.5,640.0,850.0,10.5,14.5,23.0,75.2
+Stronghold Crusader 2,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,6 GB,37.0,6 GB,77.5,2.0,3.05,45.0,37.0,512.0,864.0,10.0,11.0,23.0,81.8
+Midnight Club 2,Windows 98,Windows XP 32-bit,DirectX 9,1.6 GB,0.0,1.6 GB,180.0,1.0,1.83,155.0,0.0,0.0,0.0,9.5,0.0,0.0,0.0
+Forza Motorsport 7,Windows 10 64-bit,Windows 10 64-bit,DirectX 12,55 GB,36.5,55 GB,45.0,4.0,3.6,27.0,36.5,2048.0,1012.5,11.6,15.5,35.0,50.4
+Citadel: Forged with Fire,Windows 7 64-bit,Windows 7 64-bit,DirectX 10,20 GB,36.5,20 GB,33.5,2.5,3.45,32.0,36.5,2560.0,1451.5,11.6,34.0,80.5,172.9
+Gratuitous Space Battles: The Tribe,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,39.0,0MB,180.0,1.0,1.75,65.0,39.0,192.0,437.5,9.0,0.0,0.0,14.0
+Yonder: The Cloud Catcher Chronicles,Windows Vista 64-bit,Windows 7 64-bit,DirectX 11,20 GB,36.5,20 GB,38.5,3.0,3.95,27.0,36.5,1536.0,1425.0,11.15,15.5,53.5,91.2
+Underworld Ascendant,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,45 GB,0.0,45 GB,14.0,4.0,3.3,14.0,0.0,2048.0,1426.5,11.6,35.0,68.5,129.7
+Death Cabin,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Tetrobot and Co.,Windows XP 32-bit,Windows 7 32-bit,DirectX 9,1 GB,0.0,0MB,38.5,3.0,2.4165,110.0,0.0,32.0,125.0,9.05,1.0,2.0,2.0
+Lords of Xulima,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Sword Coast Legends,Windows XP 32-bit,Windows 7 64-bit,DirectX 11,20 GB,67.5,20 GB,65.0,2.0,3.3,38.5,67.5,512.0,946.5,10.05,10.0,29.5,60.6
+The Shattering,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,8 GB,36.5,8 GB,32.0,3.0,3.4,27.0,36.5,2048.0,1375.0,11.2,23.5,51.0,132.8
+Need For Speed: Most Wanted 2 Ultimate Speed,Windows Vista 32-bit,Windows 7 64-bit,DirectX 10,2 GB,35.0,2 GB,65.0,2.0,2.165,65.0,35.0,256.0,750.0,10.05,3.5,7.5,24.0
+Face Noir,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,2 GB,32.5,2 GB,155.0,1.0,2.7,38.5,32.5,320.0,550.0,9.5,1.0,2.5,6.8
+Terje Haakonsens Powder VR,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,10 GB,36.5,10 GB,27.0,6.0,3.3,18.0,36.5,7168.0,2001.0,12.05,61.5,159.5,224.1
+Crusader Kings II: Sunset Invasion,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,66.0,1 GB,110.0,1.0,2.3665000000000003,65.0,66.0,384.0,950.0,9.5,5.0,8.0,60.8
+SLUDGE LIFE,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,2 GB,65.5,2 GB,65.0,2.0,3.25,38.5,65.5,128.0,200.0,9.55,1.0,1.0,6.4
+Book of Yog Idle RPG,Windows 7 64-bit,Windows 10 64-bit,DirectX 9,0MB,36.5,1 GB,38.5,3.0,3.15,32.0,36.5,768.0,899.0,11.05,3.0,6.0,21.6
+Tony Hawks Pro Skater 1 and 2,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,5 GB,36.5,5 GB,38.5,3.0,3.75,27.0,36.5,3072.0,1751.0,12.05,33.5,70.0,112.05
+Pro Cycling Manager 2016,Windows Vista 32-bit,Windows 7 64-bit,DirectX 9,11 GB,67.0,11 GB,65.0,2.0,3.05,55.0,67.0,256.0,850.0,10.0,4.0,8.5,27.2
+Metal Unit,Windows 7 64-bit,Windows 10 64-bit,DirectX 10,0MB,36.5,0MB,32.0,5.0,3.15,32.0,36.5,768.0,1026.0,11.0,12.0,25.0,65.65
+Strike Suit Infinity,Windows XP 64-bit,Windows 7 64-bit,DirectX 11,2.5 GB,71.0,2.5 GB,65.0,2.0,2.5,55.0,71.0,768.0,1000.0,10.05,9.0,35.5,64.0
+System Shock 3,Windows Vista 64-bit,Windows 7 64-bit,DirectX 11,20 GB,36.5,20 GB,38.5,3.0,3.95,27.0,36.5,1536.0,1425.0,11.15,15.5,53.5,91.2
+Milanoir,Windows 7 64-bit,Windows 10 64-bit,DirectX 9,1 GB,70.5,1 GB,48.5,3.0,2.35,65.0,70.5,384.0,400.0,10.05,2.0,4.5,9.6
+Cities XL,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,8 GB,67.0,8 GB,130.0,1.0,3.05,65.0,67.0,384.0,450.0,9.0,0.0,0.0,14.4
+Cyber Emoji Tale 2099,Windows XP 32-bit,Windows 10 64-bit,DirectX 11,0MB,30.5,0MB,55.0,2.0,2.8,55.0,30.5,768.0,899.0,11.05,3.0,6.0,21.6
+Fragmented,Windows Vista 64-bit,0,DirectX 10,10 GB,36.5,10 GB,65.0,2.0,3.65,32.0,36.5,1024.0,950.0,11.5,22.5,45.0,121.6
+Starlight Inception,Windows XP 32-bit,Windows 7 64-bit,DirectX 9,6 GB,36.0,6 GB,65.0,2.0,2.165,77.5,36.0,768.0,1063.5,10.55,19.0,28.5,100.1
+StarDrone VR,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,0MB,36.5,0MB,23.0,3.0,3.4,27.0,36.5,1024.0,1751.5,12.05,28.5,71.0,56.1
+Borderlands,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,8 GB,66.0,8 GB,130.0,1.0,2.55,65.0,66.0,256.0,525.0,9.5,1.5,3.0,16.799999999999997
+Ragnarock,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,2 GB,0.0,2 GB,23.0,4.0,3.6,14.0,0.0,7168.0,2001.0,12.05,62.5,165.0,224.1
+Fable 4,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,50 GB,0.0,50 GB,32.0,6.0,3.6,14.0,0.0,2048.0,1564.0,12.05,34.5,92.0,144.1
+Homeworld: Deserts of Kharak,Windows 7 32-bit,Windows 7 64-bit,DirectX 10,8 GB,34.0,12 GB,32.0,3.0,3.43,38.5,34.0,1280.0,937.5,10.55,14.0,24.0,84.0
+Dream Cycle,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,25 GB,0.0,25 GB,14.0,4.0,3.4000000000000004,10.5,0.0,4096.0,1751.0,12.05,42.5,113.0,168.05
+Rainy Day,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Saints Row 3 Remastered,Windows 10 64-bit,Windows 10 64-bit,DirectX 11,46 GB,36.5,46 GB,27.0,5.0,3.5,27.0,36.5,3072.0,1626.0,11.55,32.5,121.0,184.1
+The Jackbox Party Pack 5,Windows XP 32-bit,Windows 10 64-bit,DirectX 9,3 GB,70.5,3 GB,48.5,2.0,2.365,45.0,70.5,384.0,500.0,10.0,2.0,5.0,10.0
+Pit People,Windows Vista 64-bit,Windows 7 64-bit,DirectX 9,1 GB,32.5,1 GB,65.0,2.0,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+Element TD 2 - Multiplayer Tower Defense,Windows 8 64-bit,Windows 10 64-bit,DirectX 9,9 GB,32.5,9 GB,65.0,2.0,3.2,33.5,32.5,768.0,450.0,10.6,3.0,6.5,7.2
+Tormented Souls,Windows 7 64-bit,Windows 7 64-bit,DirectX 11,4 GB,36.5,4 GB,32.0,6.0,3.4000000000000004,18.0,36.5,1024.0,1037.5,11.0,17.5,31.5,116.4
+Island Saga,Windows 7 64-bit,Windows 10 64-bit,DirectX 9,6 GB,70.0,6 GB,55.0,2.0,2.85,38.5,70.0,768.0,650.0,10.6,5.5,16.0,13.6
+Super Splatters,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,1 GB,66.5,1 GB,180.0,1.0,2.1,77.5,66.5,256.0,800.0,10.5,4.5,7.0,25.6
+School of Dragons:How to train your dragon,Windows XP 32-bit,Windows XP 32-bit,DirectX 9,0MB,66.5,0MB,180.0,1.0,2.1,77.5,66.5,320.0,550.0,9.5,1.0,2.5,6.8
+Boomerang Fu,Windows 7 64-bit,Windows 10 64-bit,DirectX 11,0MB,34.5,0MB,30.0,3.0,3.5,32.0,34.5,1024.0,1200.0,11.05,14.0,46.5,110.4
+Lucius 3,Windows 7 64-bit,Windows 10 64-bit,DirectX 9,25 GB,36.5,25 GB,23.0,4.0,3.5,18.0,36.5,2048.0,1451.0,11.15,27.5,78.5,161.7
